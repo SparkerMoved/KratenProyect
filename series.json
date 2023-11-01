@@ -1,0 +1,779 @@
+[
+  {
+    "name": "SERIES ESTRENOS",
+    "mode": true,
+    "lista": [
+      {
+        "name": "SECUESTRO AÉREO (2023)",
+        "ico": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vAo3QL02oOI9Xz90FILQN5vxMsQ.jpg",
+        "temporada": [
+          {
+            "name": "ULTIMA LLAMADA",
+            "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/eJFtaSm9OybTyVx7KszpBd5DjDB.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHszDEZ2NpI3mJoK0FUxvq4M9A+929+MKvQyTRb99B4ywORAaWAn6KfY/xezw/uhIMXG2WLcsBjOMs7ag4gtk/4Hw=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "3 GRADOS",
+            "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/gfksbdZXI5lJch4uKOX6YVaQiCs.jpg",
+            "uri": "uEl82PoYw1QOrSwRmPrOPgUpXzraKqA8RCdPMQXE/GN+E4Y+a9XBTqE63n/u+I6xZ8dgpBHu9IT3plByiG+S2pKizgPllAGXYzYEk9ThLZI=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EN BLANCO",
+            "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/nfvs5t9ZhNdqGzM9xy1x690qQCu.jpg",
+            "uri": "+lWVikTzmyhKOLQCrOnj9TrJC23XGPQSGKQmQAL0jkBNH00xvBM0H2ePFCIeSOFpGo+ToqeotuZ1KImwKjvB2g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "name": "BARRABRAVA",
+        "ico": "https://panelssh.com.ar/ImgPelis/barrabrava.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "ico": "https://panelssh.com.ar/ImgPelis/barrabrava.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJec4ZA/cPJFEiWeePIXCa3CoJkWEGJGJZapGD2jzZTgsEUJMzJFut51+lq6dFVQSNw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 2",
+            "ico": "https://panelssh.com.ar/ImgPelis/barrabrava.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJVKrbJ9hfeiEeCJWKrHtUB/TT6830YzqPXBCRbzjxGX51nAkZv7tL700kLa5ISQhXg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 3",
+            "ico": "https://panelssh.com.ar/ImgPelis/barrabrava.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJec4ZA/cPJFEiWeePIXCa3CID1DsYexfee9Z0qkc5fFKRzhDhjKcbeUUsBPZt+CXOA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 4",
+            "ico": "https://panelssh.com.ar/ImgPelis/barrabrava.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJVKrbJ9hfeiEeCJWKrHtUB9lvvIa6kzzdvkfA5IHoH5iXOqS21FtNA+9IoH5f/Vibw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 5",
+            "ico": "https://panelssh.com.ar/ImgPelis/barrabrava.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJec4ZA/cPJFEiWeePIXCa3CqwzW0j+Z7b/EniVfobhvuvIs7RmQHrrsFWgl42SM6Mw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 6",
+            "ico": "https://panelssh.com.ar/ImgPelis/barrabrava.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJVKrbJ9hfeiEeCJWKrHtUB/KtpX5mVWjP9eHmZgv5O59f+eqyBFHOxelZpcdtXExjA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 7",
+            "ico": "https://panelssh.com.ar/ImgPelis/barrabrava.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJec4ZA/cPJFEiWeePIXCa3D7ZcFKnyjuTz1Lc1rbh6G8bdvTu1iIVFY/LT5E5bqUuA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 8",
+            "ico": "https://panelssh.com.ar/ImgPelis/barrabrava.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJVKrbJ9hfeiEeCJWKrHtUB8yme9UTv08RJFbDeacteDSB7W69L90VLry30TdsiYyAQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "name": "MANDALORIAN TEMP 1",
+        "ico": "https://panelssh.com.ar/ImgPelis/mandalorian1.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "ico": "https://panelssh.com.ar/ImgPelis/mandalorian1.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJSKh4bXe7CuAqMhjz+bCrxJLy+UMkAuLNzmgT7/DAOlk0AXuZZrb9G2yOj/JjFW8iA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 2",
+            "ico": "https://panelssh.com.ar/ImgPelis/mandalorian1.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJSKh4bXe7CuAqMhjz+bCrxLYl3sHtwmJ2Y9TVvNEkxlLJKJ7cfI36O0MjvjStsKHRA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 3",
+            "ico": "https://panelssh.com.ar/ImgPelis/mandalorian1.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJdivHA/FHdYuvAyBALlmlleSuURQXseJOxZJLMD3wgnYQ6fekgBvtkt/GHPcJQgDNA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 4",
+            "ico": "https://panelssh.com.ar/ImgPelis/mandalorian1.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJSKh4bXe7CuAqMhjz+bCrxIV0BI37qCW6e3zFQ80SXycWTAEr4P1w6o4Wgu3QmlStw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 5",
+            "ico": "https://panelssh.com.ar/ImgPelis/mandalorian1.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJSKh4bXe7CuAqMhjz+bCrxI7dTMFP0KSyTheVlW1DqW1q2wwLcp/AClGcib4M8o/tA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 6",
+            "ico": "https://panelssh.com.ar/ImgPelis/mandalorian1.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJdivHA/FHdYuvAyBALlmllcVbuuWNEGVErZ+y5JUx31f/WoeNbSdGxXRIUuyv8iNWg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 7",
+            "ico": "https://panelssh.com.ar/ImgPelis/mandalorian1.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJSKh4bXe7CuAqMhjz+bCrxJfNV6RvxES51+UymXWvP72aTieCfB2vMjAVmvd0Yaukw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 8",
+            "ico": "https://panelssh.com.ar/ImgPelis/mandalorian1.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJdivHA/FHdYuvAyBALlmlleiisJoq2zmjbE+0aKDrojKGnDSbeHAMlfcA/hvu8bQpA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "OTRA SECCION",
+    "mode": true,
+    "lista": [
+      {
+        "name": "EL ENCARGADO",
+        "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+        "temporada": [
+          {
+            "name": "UN PROYECTO PELIGROSO",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "uri": "681Eojqs0kkbTJPmeYReDpPpbHcmS5nL6/eqb9yhbSZxnBDjVNMn+oY2ZVocMLcZOWM8k7yziYRyKyzNbq58Qw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "UNA ACCION SOLIDARIA",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "uri": "681Eojqs0kkbTJPmeYReDpPpbHcmS5nL6/eqb9yhbSZxnBDjVNMn+oY2ZVocMLcZ9dD6limtEangfe1vKyegaw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "UNA TURISTA EN BUENOS AIRES",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "uri": "681Eojqs0kkbTJPmeYReDpPpbHcmS5nL6/eqb9yhbSZxnBDjVNMn+oY2ZVocMLcZF/peQDxma/O2dDlzq47qBQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "UNA AMANTE PARA ZAMBRANO",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "uri": "681Eojqs0kkbTJPmeYReDpPpbHcmS5nL6/eqb9yhbSZxnBDjVNMn+oY2ZVocMLcZZRdu2BW6mxkLTi443TmW3g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "VISITA SORPRESA",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "uri": "681Eojqs0kkbTJPmeYReDpPpbHcmS5nL6/eqb9yhbSZxnBDjVNMn+oY2ZVocMLcZ3M+iirvHvBdXaubydzUxmQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "CHOFER NOCTURNO",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "uri": "681Eojqs0kkbTJPmeYReDpPpbHcmS5nL6/eqb9yhbSZxnBDjVNMn+oY2ZVocMLcZEwIkphsp7DMcbHNOlXN7dg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "ACOMPAÑANTE TERAPEUTICO",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "uri": "681Eojqs0kkbTJPmeYReDpPpbHcmS5nL6/eqb9yhbSZxnBDjVNMn+oY2ZVocMLcZRsoabAqiC4LGe8EEspow2g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "SOBOTAJE EN LA SALA DE MAQUINAS",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "uri": "681Eojqs0kkbTJPmeYReDpPpbHcmS5nL6/eqb9yhbSZxnBDjVNMn+oY2ZVocMLcZ+HGCy1mrPujzKEDQSliELA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EL OCUPA DEL 58",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "uri": "681Eojqs0kkbTJPmeYReDpPpbHcmS5nL6/eqb9yhbSZxnBDjVNMn+oY2ZVocMLcZ9Cp5rwu5eF0f/AYqF0dWOQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "LA HORA DE LA VERDAD",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "uri": "681Eojqs0kkbTJPmeYReDpPpbHcmS5nL6/eqb9yhbSZxnBDjVNMn+oY2ZVocMLcZnoEC+dv27OlEUpkP8sXLhw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "EL AVE FENIX",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
+            "uri": "681Eojqs0kkbTJPmeYReDpPpbHcmS5nL6/eqb9yhbSZxnBDjVNMn+oY2ZVocMLcZKrVp3gBGHYwAjN1dlKwgVQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "name": "MERLINA",
+        "ico": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/q6j9Dn3iiXoCjpVitDppNNZXwVq.jpg",
+        "temporada": [
+          {
+            "name": "CAP 1: LOS MIERCOLES SON TRISTES",
+            "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vaoNDFmj7DQH7PpAy9YWgLVylPP.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHsyql+SKWrKYZA3q1ii3A/DgZQjcgu615qG/IkzEbdgZhgnyx9vkP2BJ9CFW3BeGupUp+SHh0xNR5/RzxuB9mNyA=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "CAP 2: LA TRISTEZA ES SOLITARIA",
+            "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/i9MLXA6C5VSpRSHzXEd2uHlj4pA.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHsyql+SKWrKYZA3q1ii3A/DgZQjcgu615qG/IkzEbdgZh0y+XmrCXeMFHA2Mg0uUNuorPjMe7A82HK1e+AC5/61Y=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "CAP 3: TRISTEMENTE AMIGA O ENEMIGA",
+            "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yikI4l7vKK4LkfFEIa5dXaqO97s.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHsyql+SKWrKYZA3q1ii3A/DgZQjcgu615qG/IkzEbdgZhmYsRhKaSIjYuyK+8ybRzibqLYagnYvxiM7lpbpTF0XM=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "CAP 4: QUE NOCHE LA DE ESE DIA",
+            "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wV2de1W3td4zxaW97HATfktHjfd.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHsyql+SKWrKYZA3q1ii3A/DgZQjcgu615qG/IkzEbdgZhJ/wAcQanWv+w4GJEstSNgjy06cXb1j018TmJke8ax7Y=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "CAP 5: QUIEN SIEMBRA VIENTOS RECOGE TRISTEZA",
+            "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/j3Tx4CXDhzOV103TuTwz461EdjF.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHsyql+SKWrKYZA3q1ii3A/DgZQjcgu615qG/IkzEbdgZhb3dlVaFnFSnifpUBytd8JWevULiq/oXzYz8m02QrAW4=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "CAP 6: HOY POR MI, MAÑANA POR MI",
+            "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cPHlYQ00832jS7IDqfHS7RWTz2k.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHsyql+SKWrKYZA3q1ii3A/DgZQjcgu615qG/IkzEbdgZhQ/kWEdFWzPf+TusCcRizV9K5neeo7mrtR6m+9rzneD8=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "CAP 7: QUE TRISTE QUE TODAVIA NO ME CONOZCAS",
+            "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aEmccS7KyFPQMAnuQ2C5sbyn5fc.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHsyql+SKWrKYZA3q1ii3A/DgZQjcgu615qG/IkzEbdgZhESIWVJyDZ0TJUiAWBzkaEg1O6vyQoYaqLGmgnOznp6w=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "CAP 8: UNA BANDADA DE TRISTEZA",
+            "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3b42P1FuxWC9JXVIfnKAUUuq0zP.jpg",
+            "uri": "vyfGcsDFWL7qYHr0OJgHsyql+SKWrKYZA3q1ii3A/DgZQjcgu615qG/IkzEbdgZh8kOB77vDIhAgOFDv4+0aQYP+q8gpib+FKr1KVOOROWY=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "name": "CHIP Y DALE LA VIDA EN EL PARQUE",
+        "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJUxipx7XgyUxmTijBs+Gd4J0AyoSg4NhNzxp/BYtiLdLn80MaPz7PvcYWKLVOmJDvA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 2",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJRzPn1Ut3QOzrj07JKZqQqgxvFUsdH6DI4sqkwzFGZwj0+1Y6zjPHeQ0W8mHsTIVcw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 3",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJRzPn1Ut3QOzrj07JKZqQqgc9psGe8/FrdBYHT74JTofdiJR/jIVxv1V8c0wct5U8w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 4",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJUxipx7XgyUxmTijBs+Gd4LKcz8ZYAymvs9YL74viJGirPapIQiDG74+OI80WEsaiQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 5",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJRzPn1Ut3QOzrj07JKZqQqjJqx2CXfbzZhjffDpwYJwlV9sd8MfoaUD8Ant7oEiNRQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 6",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJRzPn1Ut3QOzrj07JKZqQqimspjdLJkV6o8Y+NGV+Hhwd888tLRdLOetci/a/5iGQg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 7",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJUxipx7XgyUxmTijBs+Gd4L0bkGbbth3lkM9b61aVnAneFSzG8N4tlcLYmdKRCqjtw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 8",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJRzPn1Ut3QOzrj07JKZqQqiK6ptFkKx4GDjp7ZpqS2OfZnTzfSx/Y7j/5kVBLFlvVA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 9",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJUxipx7XgyUxmTijBs+Gd4KPmuiTRsnSIso6gqwmiHudZVc56QJ3l343Rs7b0e9ysQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 10",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJRzPn1Ut3QOzrj07JKZqQqjAdl1joOs8lUqdjsApsWAIE9ttJA1WVddIi994gysqXg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 11",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJUxipx7XgyUxmTijBs+Gd4LalMW0MVvbpGdei9bBISk/3l9Ox954Y9DZzWPr8JCDxA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 12",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJRzPn1Ut3QOzrj07JKZqQqiY0tx5MYCxbX/mZ9/h9cZSF4KU/iS5AL1IfRoBQ+X1Uw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 13",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJUxipx7XgyUxmTijBs+Gd4LYVkq/FuwxJ53IfzRwAnYn3eddhG7LR2BB7ylTgGUpog==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 14",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJRzPn1Ut3QOzrj07JKZqQqgHOWnih8Eit1uL0rG4VyN/9WsBATeXsf+aGaveUILSYg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 15",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJUxipx7XgyUxmTijBs+Gd4K9DnRKZv2R52h4gGk/aQHT2gHGbd4wEwR5Q3NSgrWREQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 16",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJRzPn1Ut3QOzrj07JKZqQqhGMAIfOCFth88ERWV+FBtOV2+poLycW4wHwKoJVRgl0w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 17",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJUxipx7XgyUxmTijBs+Gd4JlpcZybT3MCL1F7p9+1eGHPB1guFlF8O05ss8PVxMXpQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo 18",
+            "ico": "https://panelssh.com.ar/ImgPelis/chipydale.jpg",
+            "uri": "tUqTt1pfJkll9sZ+5u+MJRzPn1Ut3QOzrj07JKZqQqjAAx2Ir60fI6mOdkiz7r5dG2e/eqp8ap6Q6w5KVBmoIQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "name": "SERIES ARGENTINAS",
+    "mode": true,
+    "lista": [
+      {
+        "name": "EL MARGINAL TEMP 1",
+        "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E01_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 2",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E02_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 3",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E03_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 4",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E04_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 5",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E05_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 6",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E06_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 7",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E07_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 8",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E08_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 9",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E09_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 10",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E10_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 11",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E11_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 12",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E12_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 13",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S01E13_480.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "name": "EL MARGINAL TEMP 2",
+        "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp2.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp2.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S02E01.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 2",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp2.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S02E02.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 3",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp2.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S02E03.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 4",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp2.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S02E04.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 5",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp2.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S02E05.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 6",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp2.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S02E06.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 7",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp2.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S02E07.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 8",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp2.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S02E08.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "name": "EL MARGINAL TEMP 3",
+        "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp3.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp3.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S03E01.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 2",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp3.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S03E02.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 3",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp3.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S03E03.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 4",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp3.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S03E04.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 5",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp3.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S03E05.rev.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 6",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp3.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S03E06.rev.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 7",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp3.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S03E07.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 8",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp3.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S03E08.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "name": "EL MARGINAL TEMP 4",
+        "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp4.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp4.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S04E01.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 2",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp4.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S04E02.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 3",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp4.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S04E03.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 4",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp4.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S04E04.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 5",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp4.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S04E05.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 6",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp4.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S04E06.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 7",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp4.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S04E07.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 8",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp4.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S04E08.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
+        "name": "EL MARGINAL TEMP 5",
+        "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp5.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo. 1",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp5.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S05E01.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 2",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp5.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S05E02.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 3",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp5.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S05E03.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 4",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp5.jpg",
+            "uri": "http://tuvideo.tv/cloud_2/El.Marginal.S05E04.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 5",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp5.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S05E05.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Capitulo. 6",
+            "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp5.jpg",
+            "uri": "http://tuvideo.tv/cloud_1/El.Marginal.S05E06.spa.mp4",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      }
+    ]
+  }  
+]
