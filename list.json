@@ -1698,6 +1698,117 @@
     ]
   },
   {
+    "name": "PARAGUAY",
+    "mode": false,
+    "lista": [
+      {
+        "name": "SUR TV",
+        "ico": "https://panelssh.com.ar/Img/surtv.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweW1brCwMUutU4YybxXt1oaDv7d1jNBnlat18CRuG3oVxUx5b1B/ukX0B1Gkc+dDBg=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDEFvaWbEGXCvkShdpPQkpCD019SlhWkGHKiH5UYiV3ID"
+      },
+      {
+        "name": "UNICANAL",
+        "ico": "https://panelssh.com.ar/Img/unicanal.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwdswU11FDwsLpxgoBPQi8QVMVVrr2jAaFfygtfiSQfOpe3zzXjb04Ne0nTXKe2F62Ajr2EaBOzcnwefmQeRq2Nl",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDAxZ4AZ+Zlt6ZMqtZhqc/we65PJ0igUzhXBMKuHdZhAi"
+      },
+      {
+        "name": "5 DIAS TV",
+        "ico": "https://panelssh.com.ar/Img/5diastv.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweWYvrZC4eyZUiMIYbDaT5l6q2A6nCeFi9+jraUa0I4iTIUlxAIfFv1Bp8ui/k4yDMPzEh4cijwkXYMcC4eRgEY",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDEv0vCtxHRH9jeBRAnbYQmgDKdXyFcTY+Qr3fFFZTfqE"
+      },
+      {
+        "name": "CANAL PRO",
+        "ico": "https://panelssh.com.ar/Img/canalpro.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwdxt33+KkSMvr+nhSceSE7tOig1IahuZx3z4bAtKqiy9Dp51gL8w0fQwqpTmHFkAx6c0wXmdGxRzPw69xrAQXZW",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCAnpDttS4N37nqtht6IGjH3"
+      },
+      {
+        "name": "NOTICIAS PY",
+        "ico": "https://panelssh.com.ar/Img/noticiaspy.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwey0VHQ7Sd0oA/JiM2pTTcA1wytZeDL6ZINkYodzKEgN3U4P1Gg7Ttml6KXYJlgoA4XX3IGfSPl8SrYHpdV74a5",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDEmQp4fFw2Z2pgq8+vgtgFcFNgUcJuDjLNfVtJc23rfi"
+      },
+      {
+        "name": "C9N",
+        "ico": "https://panelssh.com.ar/Img/c9n.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcjVRQBpAhxSJnh0VZwtDZwrSPEusDNXAUzGaH/LzTeT5raJ6QmsUJqb2BRjhlSm6Y=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKe12xgVfgwkIevgP9j5a5ki2BGOEt9L/WipZdUHZo3S"
+      },
+      {
+        "name": "GEN TV",
+        "ico": "https://panelssh.com.ar/Img/gentv.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwevh7wuPJdWgNxarTEPjgUzWi07Akxca/ar10KWsHyra/fRF5m6oIMgjjHaSKPIWzI=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDHPCGGsx5JyF/12RgnfLeisDQFtHRtVkOmYIJH/epqdH"
+      },
+      {
+        "name": "LA TELE",
+        "ico": "https://panelssh.com.ar/Img/latele.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwc8XlLyslcIweCWoBoJZWOOzWijKUyNkgzIq6SDCkONRX4EbtgqEXWtfXeRbLyevf6TKD/UlBCT8Ds/MgqsquXi",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDG3ya3jWOs3dk4R0DzdBLoBczvVZJxG0xy2ODfq2Gunf"
+      },
+      {
+        "name": "PARAVISION",
+        "ico": "https://panelssh.com.ar/Img/paravision.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwe0Jiee/HirNVc2w28R9gViQ6LxzDBZvh+gEalg2uJiXY4lOxWBLm88+xRm9X30JXFIH+SNUTSWUOgizmKYwi59",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDOKzhdeVEQe0+US1T03F9Cl5lMcZ2IOqXZG8dfA/Pxnk"
+      },
+      {
+        "name": "SNT",
+        "ico": "https://panelssh.com.ar/Img/snt.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwf0VxsFecCKheiKFwM3N/6i0Ws03GXGBluWHUULvAU+WPjh09NLX6eVEeO0iB7BnGg=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLwkOLDXn56egytZgUwgB12TF3CTX0mAngkMdLFYBxlW"
+      },
+      {
+        "name": "TELEFUTURO",
+        "ico": "https://panelssh.com.ar/Img/telefuturo.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweCsYTLpvcXkXrD7O8dplnXYm9ZgvkG7nFDfGZKPk1qmuVtjHZGXuRhHmW5Q8etiv/BZh3Pbtz56Xw+m0gOcjIH",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNxMmWpCUqaW7aFMJklK41fncjPf/KMzWb0YFdcd5pR2"
+      },
+      {
+        "name": "RPC",
+        "ico": "https://panelssh.com.ar/Img/rpc.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcXCF9CfOaf5utO4RCClvvuGtqbc5YIpTQQ600VHzXtRUIzlUIv4tMBJ36Omsc4ctA=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDG/vfBxRMiNiXklMH8kL5Lyk/P7e5S7nr/2Y17KjL1tP"
+      },
+      {
+        "name": "CENTRAL TV",
+        "ico": "https://panelssh.com.ar/Img/centraltv.png",
+        "uri": "ZIR93ZWYa3EHwPvtYutMYaox02Hzlo0oPVhuqXnLh2qabxKu+5EDvJFF98QYC5t5CItmIOIVRFergQR3dDsuHGfBUsqP1/sebFaJiP3XS5g=",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "UNION TV",
+        "ico": "https://panelssh.com.ar/Img/uniontv.png",
+        "uri": "pTp5hHe3iLtFt1Fu1xDvPKAlX0VgDODN11RVd4XzJ9wPdLTc35Zf4AK5wI7vTejphZDmmemFvYQPKkQc1VXrgQ==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
+      {
+        "name": "MEGA TV",
+        "ico": "https://panelssh.com.ar/Img/megatv.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwersD6Rxo+vOpwQZbV9e3WnuZ5uuLCYdfx8K+9uCYVlX3t6DOroAjSHv4nZfRJQqEY=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLkPI32//r3KTyhZ1YZz7S+LXQiq8mVr/17GwUJSHehT"
+      }
+    ]
+  },
+  {
     "name": "ALTERNATIVOS 24/7",
     "mode": false,
     "lista": [
