@@ -1556,20 +1556,6 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDDEzQjt0JM0MKyvjGezA/+3lDOrOtIEClnsPiwcjFTnt"
       },
       {
-        "name": "CANAL 10 URUGUAY",
-        "ico": "https://panelssh.com.ar/Img/canal10uy.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcphDROI2WV9L7CvXD0mPSn3B24NOiifpG5RKbfjcNwaoxBAegB2zJrWjNMeSpJ2X36qp0lh6XO8ZYdrDRFQ0pr",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCBEiZt+2V3p+9GcBp4OMg62"
-      },
-      {
-        "name": "TELEDOCE URUGUAY",
-        "ico": "https://panelssh.com.ar/Img/teledoceuy.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwfr6GwA1DxswMjfC4RXGw4jVF8IB1I8AQorE/QgOfzbzSoouKJ97gOmwUp091wwC44gFKXDiRKUWzgQzCqqbFth",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNxMmWpCUqaW7aFMJklK41eoEfeiZk++aGOlFRdkkwUc"
-      },
-      {
         "name": "DIRECTV NEWS",
         "ico": "https://panelssh.com.ar/Img/dtvnews.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqCvmG0QctUchxjiDS+Szh5n0Rdis5ettX01grffMKYnmXl2RJdMOO1q8++pwQDn3U=",
@@ -1666,34 +1652,6 @@
         "uri": "dt37RD+LD0NtJoD42JGpTCe7HAUE+UWdeWnJAL2TEza2eVt7BIwYchdTsEB1A9vTsqEwItTCwheoEx+d90Y4cZBHYb77kiEzWbQdDvemiQcCUFvgKNqYfjYfkq5icu6TUlYqbGA4zLJjGcCdADNx8A==",
         "drm_scheme": "ClearKey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNxMmWpCUqaW7aFMJklK41fHIW+v1uttnDuTbzmv1tfxpDm2xGHCIKD4Q3n2Fljryg=="
-      },
-      {
-        "name": "TV CIUDAD",
-        "ico": "https://panelssh.com.ar/Img/tvciudad.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwfWc+K0bqCcmiTKkn/KxZqCE6LcvXxQhrLJ2+m6mUoP//v8/nibqD1dfsLZ3bVOYHoIlQ/kPBZnicsucAZp0gNP",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDJW1cU3euQwFsSRADYx2Sya/Gi3tRvAX48eD8xrwZztn"
-      },
-      {
-        "name": "TV5 URUGUAY",
-        "ico": "https://panelssh.com.ar/Img/canal5uy.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwdIIHq1tgFE6nIfS4kLSdjjTpxWu9Q6XxzGrKMR+rmhW1kt2geX5HjbBTFOdEZAvT3rQb6V8+R5OmkGvmfL8/nc",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCCL/zNDN7VQp/QTC7hhHXxt"
-      },
-      {
-        "name": "CANAL 4 URUGUAY",
-        "ico": "https://panelssh.com.ar/Img/canal4uy.png",
-        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcVUsbDrFtBuQtA0oXiCyuhQct1yPsg+bB/tiL+8+PINGjwRlzYAENH/QbopEIYCqDXot5g8I0/OVxlfiS2NBZF",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCA9LThtwF6wxVVSFHOdZuOZ"
-      },
-      {
-        "name": "CANAL UCL",
-        "ico": "https://panelssh.com.ar/Img/canal_u.png",
-        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrA96okrZ9SFAfSjm5NAW1MMxqasnx9P1jwH9fn8qkwswJkeo++6NcNDp+GCuf70O+SddS6CB4B4Hb3tFSxyj1H",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCCVcfGEx9vQ/lDT2BBJTaNN"
       }
     ]
   },
@@ -1805,6 +1763,68 @@
         "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwersD6Rxo+vOpwQZbV9e3WnuZ5uuLCYdfx8K+9uCYVlX3t6DOroAjSHv4nZfRJQqEY=",
         "drm_scheme": "clearkey",
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLkPI32//r3KTyhZ1YZz7S+LXQiq8mVr/17GwUJSHehT"
+      }
+    ]
+  },
+  {
+    "name": "URUGUAY",
+    "mode": false,
+    "lista": [
+      {
+        "name": "VTV",
+        "ico": "https://panelssh.com.ar/Img/vtv.png",
+        "uri": "dt37RD+LD0NtJoD42JGpTCe7HAUE+UWdeWnJAL2TEza//n3Cv86Vf7zvFWY9IqxOsTBRIslGXfXZCp0htbZOUFZSlaRJSGQ7Y23+75rmbbpYyejHhpF8XT5jJtOpOo8B",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDP3d2gM2UbbCUdGdtBsjTZqg1Gz6fA80loCNFYYOVDRY"
+      },
+      {
+        "name": "VTV PLUS",
+        "ico": "https://panelssh.com.ar/Img/vtv_plus.png",
+        "uri": "dt37RD+LD0NtJoD42JGpTPRZqFQJpSc+twxnz2UNexyCcOUaTW0GJ57WzvSsszP0DMmBsiJzJGJtZJPHQIPNjCz0jSbg2di++907Aj7E7a9hPMTjS878cZUnFLT9T2yl",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDP3d2gM2UbbCUdGdtBsjTZqV4kDA/QiacfQMr6LgX3jf"
+      },
+      {
+        "name": "CANAL 10 URUGUAY",
+        "ico": "https://panelssh.com.ar/Img/canal10uy.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcphDROI2WV9L7CvXD0mPSn3B24NOiifpG5RKbfjcNwaoxBAegB2zJrWjNMeSpJ2X36qp0lh6XO8ZYdrDRFQ0pr",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCBEiZt+2V3p+9GcBp4OMg62"
+      },
+      {
+        "name": "TELEDOCE URUGUAY",
+        "ico": "https://panelssh.com.ar/Img/teledoceuy.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwfr6GwA1DxswMjfC4RXGw4jVF8IB1I8AQorE/QgOfzbzSoouKJ97gOmwUp091wwC44gFKXDiRKUWzgQzCqqbFth",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNxMmWpCUqaW7aFMJklK41eoEfeiZk++aGOlFRdkkwUc"
+      },
+      {
+        "name": "TV CIUDAD",
+        "ico": "https://panelssh.com.ar/Img/tvciudad.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwfWc+K0bqCcmiTKkn/KxZqCE6LcvXxQhrLJ2+m6mUoP//v8/nibqD1dfsLZ3bVOYHoIlQ/kPBZnicsucAZp0gNP",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDJW1cU3euQwFsSRADYx2Sya/Gi3tRvAX48eD8xrwZztn"
+      },
+      {
+        "name": "TV5 URUGUAY",
+        "ico": "https://panelssh.com.ar/Img/canal5uy.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwdIIHq1tgFE6nIfS4kLSdjjTpxWu9Q6XxzGrKMR+rmhW1kt2geX5HjbBTFOdEZAvT3rQb6V8+R5OmkGvmfL8/nc",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCCL/zNDN7VQp/QTC7hhHXxt"
+      },
+      {
+        "name": "CANAL 4 URUGUAY",
+        "ico": "https://panelssh.com.ar/Img/canal4uy.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uwcVUsbDrFtBuQtA0oXiCyuhQct1yPsg+bB/tiL+8+PINGjwRlzYAENH/QbopEIYCqDXot5g8I0/OVxlfiS2NBZF",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCA9LThtwF6wxVVSFHOdZuOZ"
+      },
+      {
+        "name": "CANAL UCL",
+        "ico": "https://panelssh.com.ar/Img/canal_u.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrA96okrZ9SFAfSjm5NAW1MMxqasnx9P1jwH9fn8qkwswJkeo++6NcNDp+GCuf70O+SddS6CB4B4Hb3tFSxyj1H",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDKh+7wsqWHh8cEU5Jfy+CCCVcfGEx9vQ/lDT2BBJTaNN"
       }
     ]
   },
