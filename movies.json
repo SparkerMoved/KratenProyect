@@ -3163,7 +3163,7 @@
         "mode": false,
         "lista": [
           {
-            "name": "BUSQUEDA IMPLACABLE 1 (2008)",
+            "name": "BUSQUEDA IMPLACABLE (2008)",
             "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/2/w1280/dTshd9hjQMWyRijWucqszKPrp5z.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1YoXitlkcBm/hwFFo7+r219VBY42OAMoTn/hwwhu+OfA==",
             "drm_scheme": "",
@@ -3212,37 +3212,9 @@
             "drm_license_url": ""
           },
           {
-            "name": "Kickboxer 1989",
+            "name": "Kickboxer (1989)",
             "ico": "https://relampagomovies.com/images/movies/Kickboxer%20(1989).jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1gjNIyFtbW4yrmG5nGD1gfOtUmWr8bTt5jyrVqJjhRLg==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "KICKBOXER 2 (1991)",
-            "ico": "https://relampagomovies.com/images/movies/Kickboxer%202%20(1991).jpg",
-            "uri": "puZNbi7EmykDn3HiayD33twvipITwama3t5yUIPM8V2jZ8MV1bPOFbBaXTh55ZwZSPxp64iMb8V0IxEEsC+e41oE0yWOng/KmM8RXxP5KsBH8Ugmvn19H5hVGwU8Rgk7d5dln4gGAXdKkYf63J4J1A==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "KICKBOXER 3",
-            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/7K9Nh9ACZfSTn7ngMMAFELiyUr6.jpg",
-            "uri": "puZNbi7EmykDn3HiayD33twvipITwama3t5yUIPM8V2jZ8MV1bPOFbBaXTh55ZwZPMBzeQV1guOYAVhL59O8oRyIDNuejfxzvN1T8EqqWnQQwIxoiCLwHS6hMfnTlwPY/9fWS/kxoqm6XD5s2sirIA==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "KICKBOXER 4",
-            "ico": "https://relampagomovies.com/images/movies/Kickboxer%204%20The%20Aggressor%20(1994).jpg",
-            "uri": "puZNbi7EmykDn3HiayD33twvipITwama3t5yUIPM8V2jZ8MV1bPOFbBaXTh55ZwZNQ/3vVV0W94ikuvI1zSFQHspBWaad3E+8igzqRctRX5qiGI8xSTdefcR0qg0T4y8vt3a+LzOBGyH1ijEqxu5ng==",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "KICKBOXER 5",
-            "ico": "https://relampagomovies.com/images/movies/Kickboxer%205%20(1995).jpg",
-            "uri": "puZNbi7EmykDn3HiayD33twvipITwama3t5yUIPM8V2jZ8MV1bPOFbBaXTh55ZwZBdcD4zPHInLmXf2sTbwiWiA27AeRP53GdfuTGp5UsvsAFQ6AAqecw9nrB/mJRWibKEUrJZHRHahesBdiMcn1zQ==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
@@ -3250,6 +3222,13 @@
             "name": "KICKBOXER RELATION",
             "ico": "https://relampagomovies.com/images/movies/Kickboxer%20Retaliation%20(2018).jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1gjNIyFtbW4yrmG5nGD1gfXHtB06B0efqfl1mhCwb9NPc8rYjTuZnwWOlrzUkklnE=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "SENTENCIA DE MUERTE",
+            "ico": "https://cdn.mitvstatic.com/programs/co_sentencia-de-muerte-1990_p_m.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0WPzPgF0tv2JnCZeGbCX/CrSS1nrj4+W1FC2lOSx+P8A==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
@@ -3817,13 +3796,6 @@
             "name": "MAXIMA VELOCIDAD 2",
             "ico": "https://static.wikia.nocookie.net/doblaje/images/0/0d/Speed_2_poster_movie.jpg/revision/latest/top-crop/width/360/height/450?cb=20180325043924&path-prefix=es",
             "uri": "Almg0eOuTcxLa4E+hRjw7gr3Y1hRriL1ZWMXUokik0F/+vRR7xnAGX5GKsdl+vHB7IjT0g1zLc6p7QNv7Oi/5+QPEEaY4pHvlN7e+JclMjo=",
-            "drm_scheme": "",
-            "drm_license_url": ""
-          },
-          {
-            "name": "SENTENCIA DE MUERTE",
-            "ico": "https://cdn.mitvstatic.com/programs/co_sentencia-de-muerte-1990_p_m.jpg",
-            "uri": "Almg0eOuTcxLa4E+hRjw7uL6fRnYNaRID1VxzS47LbjitWy0oC3o4p4A0LPhm3rviLJKRh3gipzs9yH0M0RUOH4cSmL8mpp0FBsiTuZ5QBTgWKIHvZFbYfjAGmE/qyPc",
             "drm_scheme": "",
             "drm_license_url": ""
           },
