@@ -562,6 +562,13 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDMn03+x0jY814iE8XtqrcNkd94qTlSmvaiNUWhFHYOle"
       },
       {
+        "name": "TNT SPORTS (OPC2)",
+        "ico": "https://panelssh.com.ar/Img/tntsports11.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrnfEsC/LSeTUou2Z8diAfqgFbHmg3bhi4392ZR050KE8KZMQzHa3hR6k86EXxlsJYiwD7/d1lJ+BeR+8b+J6jZ",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDGf5IAsnoZAI3GmIsffuGS/HFNz/sdeRHwCGl/ioKPdN4Xw51UH97QtRV2FTarmo1iI9I4oVisUICDeT/xWWVHDsflmT5fELTeJBTIz0GlPv0DSS0Dfg9u+n8k2Lk6uWog=="
+      },
+      {
         "name": "ESPN",
         "ico": "https://panelssh.com.ar/Img/espn.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqiphe8SKrnoOiQqDFZVlytw4EFD/P5sPrp+rQbRR6iIX3Q5q/BwBGsLRQOK5d7MGuTp8Fa/QBjVQhucjrKMRH7",
@@ -1263,6 +1270,13 @@
     "name": "NOVELAS Y VARIEDADES",
     "mode": false,
     "lista": [
+      {
+        "name": "KANAL D DRAMA",
+        "ico": "https://kanalddrama.com/assets/img/logotop2.png",
+        "uri": "yoCJeVXLnheaLCe6O+lBgMxS8MXqYCleuaiOkxW6fbWqC/KsbTGD9v3q90PhK6S3KlgEj3aesIOjAhIXI84F5mIKDGgFw4lNYywfqNOvg5CLzQPDZIpVL26lzJUS/1zVKCbVHPzRwmLVAYLLpLZ4Ng==",
+        "drm_scheme": "",
+        "drm_license_url": ""
+      },
       {
         "name": "TNT NOVELAS",
         "ico": "https://panelssh.com.ar/Img/tntnovelas.png",
