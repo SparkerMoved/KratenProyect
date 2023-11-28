@@ -1890,7 +1890,7 @@
     "lista": [
       {
         "name": "TOM Y JERRY",
-        "ico": "https://i.pinimg.com/originals/fd/96/7f/fd967f6a1901fd34f39173b960d6b74c.png",
+        "ico": "https://static.wikia.nocookie.net/warner-bros-entertainment/images/5/5f/TomandJerryTitleCardc.jpg",
         "uri": "Vil29tYtKQvJmebDoW3AhdJd8vxWbsggsugcP9zVGoaADTIHtQQF9f5jMzzDsJqb+orT4871Ht5dfwLMr/cMYGa12YmSfo9zyb3W/FPRE5M=",
         "drm_scheme": "",
         "drm_license_url": ""
@@ -1918,15 +1918,8 @@
       },
       {
         "name": "LOS SIMPSON",
-        "ico": "https://panelssh.com.ar/Img/lossimpson.jpg",
+        "ico": "https://upload.wikimedia.org/wikipedia/commons/4/47/The_Simpsons_Logo.png",
         "uri": "qh7HjW3YFsReeBB/BFFK9M6RuWbv6gZVusECE0kqBwu1GTCmNLL/+9Iw0jXwjDeoAt2Mtq363Jf2biPQ/y3d/Vr16JA1iZ98VHVOy9NqxU0=",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
-        "name": "MARKITO NAVAJA EN VIVO",
-        "ico": "https://panelssh.com.ar/Img/markitonavaja.png",
-        "uri": "qh7HjW3YFsReeBB/BFFK9M6RuWbv6gZVusECE0kqBwu1GTCmNLL/+9Iw0jXwjDeoDB4V7LCD/YQL/6Njq//qDmRYn1yU1DLzS0w/+xBfRCs=",
         "drm_scheme": "",
         "drm_license_url": ""
       }
