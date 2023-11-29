@@ -4,6 +4,27 @@
         "mode": false,
         "lista": [
           {
+            "name": "Sin aire (2023)",
+            "ico": "https://hackstore.so/wp-content/uploads/2023/11/Sin-Aire-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2FTqCi9PJn287SJwyMXfHQHf0dNMsk0OwvzEHXla0Q8A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Genie (2023)",
+            "ico": "https://hackstore.so/wp-content/uploads/2023/11/ykkVuQgvjrVWiEe7TvUQZOrLUgC-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2Ss8IjOU/Wx/laLJ8AIx5k2Ia0MUpj+6G58NqN3axiBg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Leo (2023)",
+            "ico": "https://hackstore.so/wp-content/uploads/2023/11/gSOVog7ydsaF1YpgAqBqnKYFGY-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1d7o/fnw0q7i0Cmf1d/c4+jGQmBuASxRJftsDlvS72CA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Oppenheimer (2023)",
             "ico": "https://hackstore.so/wp-content/uploads/2023/11/ncKCQVXgk4BcQV6XbvesgZ2zLvZ-200x300.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2XKHtX0FCAxm9363tQtDpTVletj4yGKZLxxR0s9tA5DA==",
