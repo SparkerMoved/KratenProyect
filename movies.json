@@ -4,6 +4,13 @@
         "mode": false,
         "lista": [
           {
+            "name": "Trolls 3 (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/yco6dWR1W3iANUEKxGT0vQRWrJn-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0YAxfUQ/j1QlwJJ5HoYzNpZkV9tiUOo/y3vqZnPJxM6GgY21CZOIGm/5xTENyv9CU=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "The Shepherd (2023)",
             "ico": "https://hackstore.rs/wp-content/uploads/2023/12/tjnZNP5783TWtuefte7C20bf3lM-200x300.jpg",
             "uri": "3l5Lza+GXrIdLCt3evEj/eAo/sILAp31igPlh8nvUeyEz8qvmbF7o7u2yodttznEdVxczbhgdfQsDx2DjAQlDa9t/4kz/oYc4zMWDeUDdjk=",
@@ -11,9 +18,16 @@
             "drm_license_url": ""
           },
           {
-            "name": "Trolls 3 (2023)",
-            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/yco6dWR1W3iANUEKxGT0vQRWrJn-200x300.jpg",
-            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0YAxfUQ/j1QlwJJ5HoYzNpZkV9tiUOo/y3vqZnPJxM6GgY21CZOIGm/5xTENyv9CU=",
+            "name": "La calle de la Navidad (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/La-calle-de-la-Navidad-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0Au1tX3Lrv0mAC+3FKS9M16dVb0otjE/HjMoVTs3SSRmeFWgSOxihDYWE0u73oayg=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Dias Dificiles (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/11/Dias-Dificiles-212x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3nGwCdoW6lAbWjtoNHpf2tkgc8oSHtV03P8lT6QB6TPg==",
             "drm_scheme": "",
             "drm_license_url": ""
           },
