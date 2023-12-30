@@ -4,9 +4,37 @@
         "mode": false,
         "lista": [
           {
+            "name": "Finestkind (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/w87pGcT0Hxwjxsr4frgyVj6IZik-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI03uXJmz7SLdNtwtj5S63C4KUQra5AKD8+aBt6/yQiVQQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Plan familiar (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/mBiylEUJgWikljJJNB61u7dDPON-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0NN1P/IsV0RKymBQZlQ8iafzEzJDZcLGhAi9U303CzjLWzcuscVpGIt2IrqOV3nsI=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Pollitos en fuga: El origen de los nuggets (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/Pollitos-en-fuga-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0tjdZ8KmKFwMSUO9ZPnHLPlfUGGcn4K0ONQYSrIVR2Ykn4QXC5X7AL9yoRP0SNXXNRScgTEzKf7YZhyaPSQhMI",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "The lesson (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/ktB7bt09HRQT701hVS8C23tkN6N-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3+m2oxpDULpSveVqPygEfIwYJrLnJkzSO3rNf7ey+WZQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Tu navidad o la mia 2 (2023)",
             "ico": "https://hackstore.rs/wp-content/uploads/2023/12/j0n68v05DPaCcjl0AnEQmTQB154-200x300.jpg",
-            "uri": "3l5Lza+GXrIdLCt3evEj/eAo/sILAp31igPlh8nvUexpxaFbzYiKyU4zfuWrRmTa5Y6muEq29u8/F33pc79Kh+IJfKwGO+a2nFbS5JRl4bZGGmlOJijS3oPG2qSVDRyO",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1wPDWrroZRYPEOncv5uIg/D0nE34xA4clx+QLDwrm2Mwd+CTGrJVk7w0euH6WurgCgjPGBkSG3hZBcMRcrrwPI",
             "drm_scheme": "",
             "drm_license_url": ""
           },
