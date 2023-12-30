@@ -4,6 +4,55 @@
         "mode": false,
         "lista": [
           {
+            "name": "South Park (No Apto Para Menores) (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/2OWYKGC3XmWOhcw66WkgUV0IV3g-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3HtMX4PIvBl/02wdDPWNX7IIPe7o3Kzt49ARdCosY+f0vFeNwXa67w5O6nLyvYNxtryqoMRdxbKOmmQLK+pLVHzP7nTdsQsBbhJaArvTcB0g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Saltburn (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/zGTfMwG112BC66mpaveVxoWPOaB-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0C26zR5N+QL3aj1GPhvBh8vtAhYaYgscAtPDjc9Cj97g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Viernes negro (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/Viernes-negro-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0sBe0k6L5L3LLpGJTAAAHpKHqwJACDgyLFis62yrh9+w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Su unico hijo (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/aDbmDOvZTfl2zY3mUaPXbgfRb2Q-212x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI20nk2+tuPYm6TM5IGrbJ9CbrgbYNJWqLMlk07egjYetW4amxXOA8ET7Md8PGKbXu4=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Maestro (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/aKO2S6KIRgiHcnbii4ApwfnPNGi-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2EVm7dn+UdSS6YPZXtG0lhvaCWhKIlmB5wuy3sEh3hMQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Los juegos del hambre: La balada de pájaros cantores y serpientes (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/Los-juegos-del-hambre-La-balada-de-pajaros-cantores-y-serpientes-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2mj6uLc+YraUTA76uF9XpRfnKJc+76pUfPpEnsenr+DltVBu5HcEhsiMzZEP7ZuGU33YCz1cfRX+VY5gcJ5j3YxcvlgNy0SDEYj/4tr2IUICJnFaiprih68fvqgaTOjgY=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El bufon (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/12/jsOaCojcuxktg8w1UQkoFfn1y1g-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI28mTBmThePaiRFrfJV5GHU4V6pKuewo7VOJpt88ZI4HA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Finestkind (2023)",
             "ico": "https://hackstore.rs/wp-content/uploads/2023/12/w87pGcT0Hxwjxsr4frgyVj6IZik-200x300.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI03uXJmz7SLdNtwtj5S63C4KUQra5AKD8+aBt6/yQiVQQ==",
