@@ -1,5 +1,39 @@
 [
     {
+        "name": "PELICULAS ESTRENOS 2024",
+        "mode": false,
+        "lista": [
+          {
+            "name": "Napoleon (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/Napoleon-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1MgckmKkkkDcjm2tu5AYa8TLElTaGB5qqhurHAjXIyXg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Despertar del duelo (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/wJFHUglmh7xlY7g9Ql85QAJBZ6n-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2R56NZAFiCxkWEe70BW3Eo+UwLh7xYYXHhbgCviyDWzw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Foe (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/j5B6TQSYgssYdXjA7kYdTJR0tt2-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3HojW5Tf+jWD8djM3vSycM2fgJcuEt/Xy7i7i6NVwj9Q==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "La sociedad de la nieve (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/beCxZp3SDyEsAhPvmF4RMF5ks2o-202x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1iLD8acpQU4SsMqqIKV3JtRxHavaAflwqLys38WUh/ye7in7gJwM2VS6LOBq7DOjs=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+    },
+    {
         "name": "PELICULAS ESTRENOS 2023",
         "mode": false,
         "lista": [
