@@ -38,7 +38,21 @@
         "mode": false,
         "lista": [
           {
+            "name": "Elijo Creer: El Camino del Campeón (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/tAX05FIcjnllogMa2r0FmamNhpU-210x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0sHEcLndqXmVciVKM+PUUMEQubTb36ncYGRKYgoesw6w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Muchachos, la película de la gente (2023)",
+            "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4lb7Lpwzu908fbph9enKN0axiYy.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI28Eh1F3TG+IqGfHz5vGE5SkIuqnLrDrx3RwPqLUJmgmw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Muchachos 1080P (2023)",
             "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/4lb7Lpwzu908fbph9enKN0axiYy.jpg",
             "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzelzYBL+l0QQD7zjEAcNhsBFBtdazfqVGR9UvLHIAt2e/bJOId8N5vQL/roi9uDx3mW4DsXt/Lu43C71dXQtE8Ga",
             "drm_scheme": "",
