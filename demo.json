@@ -943,13 +943,6 @@
         "uri": "kJcdqpRKZx5IpLeLVJle7+vScYTQsY3iy/kxmXBPFfUlXuSX2WGeLiueIesUTAkk7kVz6oPbIByDXWHUp3P49w==",
         "drm_scheme": "",
         "drm_license_url": ""
-      },
-      {
-        "name": "UNIVERSAL CINEMA TEST",
-        "ico": "https://panelssh.com.ar/Img/universalcinema.png",
-        "uri": "9JATqxhPq3ysYNr/TWVYZWojh6S7d/zYCjPHu2OzGL0SPedBrhVYSvEgpZyMHz0K8uZ/06tyk5gbLCrofAxKgYUd+1AVcp/wE25Wta0FcgKEBs7NLEtlbJWkDRKRSXXB",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "qMj95ZKn/Kej4TlT8InECFho3kOIU+0dJjEVoBpNis+/NhymidVr0Tl1L30Bm4mu"
       }
     ]
   },
@@ -1272,7 +1265,7 @@
     "lista": [
       {
         "name": "KANAL D DRAMA",
-        "ico": "https://kanalddrama.com/assets/img/logotop2.png",
+        "ico": "https://panelssh.com.ar/Img/canalddrama.png",
         "uri": "yoCJeVXLnheaLCe6O+lBgMxS8MXqYCleuaiOkxW6fbWqC/KsbTGD9v3q90PhK6S3KlgEj3aesIOjAhIXI84F5mIKDGgFw4lNYywfqNOvg5CLzQPDZIpVL26lzJUS/1zVKCbVHPzRwmLVAYLLpLZ4Ng==",
         "drm_scheme": "",
         "drm_license_url": ""
