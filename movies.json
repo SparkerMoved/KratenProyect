@@ -4,6 +4,34 @@
         "mode": false,
         "lista": [
           {
+            "name": "Aguas siniestras (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/gSkfBGdxdialBMM7P02V4hcI6Ij-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2VBSzVKAeMMc/jyS4H/FT7gLmvF2RQVs9cMpQod/HV2g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Monsters: El infierno del dragón (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/2ciwOfaGH2TFYWbftG7amTPVuX0-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3gbFjV4HYmzkPxchO9otk3yKcEvxbl00KJ9imyUf+wnVnncLRyK5D9c89Dm2DWXL54UjwyHG3aeqkaXL1wSE7e",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "La Cocina (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/yu4UgSvIxvcfZpCWJnH549nnIpw-202x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1D4KBCw5xnPL4+9Y1077+4v3liVK61E/AZ9kZ6r0qcAg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "60 Minutos (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/xrb6lzCC8Ge12Xb7TdjXI3AvSlZ-202x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI10F8izGXOXCi3qXH5ikYkYUkRZznCeaKWK6tUFKBS7hv/YqLYO2h4FQ3ZsmPCXIo4=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Lift: Un robo de primera clase (2024)",
             "ico": "https://hackstore.rs/wp-content/uploads/2024/01/46sp1Z9b2PPTgCMyA87g9aTLUXi-200x300.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2ZZfhWxK8C1I0Jv/ZWMgcL4yXhy5/qisXSo8FxqBAyww==",
@@ -44,6 +72,76 @@
         "name": "PELICULAS ESTRENOS 2023",
         "mode": false,
         "lista": [
+          {
+            "name": "Noche de paz (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/u5rCDIvbAMlBr3fMt57tDfkrV1o-201x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI01fgQ9qm9uNAmSgOapnxMIbO6HSVQ51sJjLQwSGI0BX+kQGwcIj3tqMMgsKWTSZRA=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "¡Patos! (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/x2y9b57WxrbPATlyeOr7BesmUem-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0UqLWLM10q3zV35TIllWmiPE4spvsD3FUzBRc8+SH1TA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Wish: El poder de los deseos (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/bmStWmjibcUSz9dzbW1Yxoykxaj-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI17GEs9TqivpCQejEpJAjaWO6ogniRghjB6+uKOY7AcZg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Aquaman y el reino perdido (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/d9Hv3b37ZErby79f4iqTZ8doaTp-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0v9Sz6ZSudGjv0NAltkKEqGsDk7KXhKSfsQplW1xAOh8+bPquKGricqHekOpSKFyjacxIxZQClEBzJJmup4LXa",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Wonka (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/Wonka-223x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3djGRKWwayyXObvQXUuXK6O/a3GUy/k0Axf50dOZc/Kg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Camino a Belén (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/nBNm7WgAYeGLSrQz1PoNB94CS1Q-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0psoNbFQPHqc47XpPTHvtCLU0W1n7etmje0+4P2KkZvJXNObRg9OfXofK8aPQJMVU=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Gol gana (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/Gol-gana-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0eZhkDw+g0hErbA8pbk571QWITFfnHQjw4FLv/9mypHF9VDpnyzGzMM2rJL2oUwy4=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Remando como un solo hombre (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/gITUKDCvOZSvfN34dAKVlhU0Zf6-225x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3jTOmE4IX1RmDPDAlgu+x8k0CBvaptTZYafNrzF0OyTdKVyT5F0Quy5ySCTzGixNo=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El color púrpura (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/El-color-purpura-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1OteaOIwp6igAVF9QUfX87szQ8vREBXko7tQrRADlX8lc2LCZtkUyomk28nhP0eDc=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "The Marvels (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/The-Marvels-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3EY1F1Aa9cur/bkXvLA+X9/6Q6dFZYq9S6xhkmSOckDg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
           {
             "name": "Elijo Creer: El Camino del Campeón (2023)",
             "ico": "https://hackstore.rs/wp-content/uploads/2024/01/tAX05FIcjnllogMa2r0FmamNhpU-210x300.jpg",
