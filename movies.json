@@ -6195,6 +6195,40 @@
         ]
     },
     {
+      "name": "SAGA MARVEL UNIVERSE",
+      "mode": false,
+      "lista": [
+        {
+          "name": "El increíble Hulk (2008)",
+          "ico": "https://panelssh.com.ar/ImgPelis/marvel4.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1s5EtrAYBGxGU2kCirCWJjQB39qiBm7OuOat1EiM4SYzXWftscleDhBA+mamm+xfI=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Iron Man: el hombre de hierro (2008)",
+          "ico": "https://panelssh.com.ar/ImgPelis/marvel3.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3+me2wiK1XQXYp+WBHvijJBW0UCyAN3weTr7Y0rbBRLA==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Capitana Marvel (2019)",
+          "ico": "https://panelssh.com.ar/ImgPelis/marvel2.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0+ELjqYAfAevNz66IFWziGLMAWT37mZfVIjVxT3QmkhUjsUI7K+jE9vKdhNtVcRso=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Capitán América: el primer vengador (2011)",
+          "ico": "https://panelssh.com.ar/ImgPelis/marvel1.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0+ELjqYAfAevNz66IFWziGolUgbQ9wNZ2x8G8EP1nazEDnaK5+V0sOtW8iZXoV3NBrCmf4l0f8HWOri0nKOBc6",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        }
+      ]
+  },
+    {
         "name": "PELICULAS 4K",
         "mode": false,
         "lista": [
