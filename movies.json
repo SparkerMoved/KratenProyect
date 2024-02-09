@@ -6199,6 +6199,34 @@
       "mode": false,
       "lista": [
         {
+          "name": "Iron Man 3 (2013)",
+          "ico": "https://panelssh.com.ar/ImgPelis/marvel8.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3+me2wiK1XQXYp+WBHvijJc38q/cwfpUrYBFFMJsKJzA==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "The Avengers (2012)",
+          "ico": "https://panelssh.com.ar/ImgPelis/marvel7.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2tsYxmsqMDxx0Po4eqOpck1mZPWS3OxcS9OZHcOqF3tw==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Thor (2011)",
+          "ico": "https://panelssh.com.ar/ImgPelis/marvel6.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3XRAnoA+AcTgX35a/fnQrT",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Iron Man 2 (2010)",
+          "ico": "https://panelssh.com.ar/ImgPelis/marvel5.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3+me2wiK1XQXYp+WBHvijJbHBy+xyhKSEsmF1Mw6zGPQ==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
           "name": "El increíble Hulk (2008)",
           "ico": "https://panelssh.com.ar/ImgPelis/marvel4.jpg",
           "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1s5EtrAYBGxGU2kCirCWJjQB39qiBm7OuOat1EiM4SYzXWftscleDhBA+mamm+xfI=",
