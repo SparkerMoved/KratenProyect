@@ -6255,6 +6255,27 @@
       "mode": false,
       "lista": [
         {
+          "name": "Guardianes de la Galaxia (2014)",
+          "ico": "https://panelssh.com.ar/ImgPelis/marvel11.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2hJImMYlgOIvoA7yD53PRv00a55vcC+ZkmoRj+ZeYTlHh57JVDCV4NLqfQ0VY2Hj4=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Capitán America: The winter soldier (2014)",
+          "ico": "https://panelssh.com.ar/ImgPelis/marvel10.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2kzJ/DpUJHP0+QpiC4vMauxzbuh/LyKnzzF5KU07AU0BiNGN4RN1Pv68B3lCzLFJc=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Thor: un mundo oscuro (2013)",
+          "ico": "https://panelssh.com.ar/ImgPelis/marvel9.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0Vy0GgY1QTp5iGR0KqPT3/Qov2o4oexnlLa1jgEXN+UC+bUYXgYumQwuGHVr1LEpc=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
           "name": "Iron Man 3 (2013)",
           "ico": "https://panelssh.com.ar/ImgPelis/marvel8.jpg",
           "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3+me2wiK1XQXYp+WBHvijJc38q/cwfpUrYBFFMJsKJzA==",
