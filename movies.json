@@ -4,6 +4,41 @@
         "mode": false,
         "lista": [
           {
+            "name": "Suncoast (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/nmPLUp5lVMiGomkN3db1WPeNrz3-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2Vr49nVOQrRNvmZQndPVY5tVFzPv71LfS6UFvopOxL4Q==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Ascenso (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/Ascenso11-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0oHEQ9IPMJFx2naRoeOPOUs57nkegDsUf5DfSNQXjRYw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El aprendiz del tigre (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/iiid1xMhoAcW83VJ9LdAqf4Vtbr-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2/XEXK5mZmgdHEgmsrekTmAzq5laVZX8SMRpkdceOVbUwINT2fM9HdTkWn9mZkCAU=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Bosco (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/nZMkfWufAMwAU9SfCCiWqlgIkaN-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3y6s86m7/yB9tVlw8V8yW0VQGaxZwaH6i5BXcm8nVLPA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Orión y la oscuridad (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/uHiXFLMlnl5jBjtfOliapN16yBD-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3aHD1MqheNUhABs2jh/NShicXRhpM8t//FOy5kWRVOuGBtXUsVdILQo0Ghoa+gInE=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Cazadores en tierra inhóspita (2024)",
             "ico": "https://hackstore.rs/wp-content/uploads/2024/01/jPGbcbMlzGUECukPhkEMVt1Kvs5-200x300.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0iiaa4YAOpOahfj4vqWR5rlbNu572GPvldRhdFo4DEcAwniD4JwdkHpwCTCL4qBXQ=",
@@ -86,6 +121,27 @@
         "name": "PELICULAS ESTRENOS 2023",
         "mode": false,
         "lista": [
+          {
+            "name": "American Fiction (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/American-Fiction-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1U9hwKG43dUf8p6OmHkh0vb9cQ9CrAGizcLamb0WaaniOElu9OPKIg+vnBjja35aA=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Manodrome (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/w5hACqUlPbpHiGLYbtoQHF0SNWe-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI38wqV3IRvBjHnEMdvp3VtLCCZHcEf2K0hYc/D4FTI0Kw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "La Maldición del Queen Mary (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/1BccI1roRYZCXbMjIwLtyq0XKzz-210x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0Y1Cqk2YceZFEv2EEu07XMjcjHiL2qDhvtV/Byp58vZbBtCq9mOmJZKQw8F7q0/jP1QJPZ8y7LasyqjzXuVbes",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
           {
             "name": "Noche de paz (2023)",
             "ico": "https://hackstore.rs/wp-content/uploads/2024/01/u5rCDIvbAMlBr3fMt57tDfkrV1o-201x300.jpg",
