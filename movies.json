@@ -6255,6 +6255,104 @@
       "mode": false,
       "lista": [
         {
+          "name": "The Marvels (2023)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2024/01/The-Marvels-200x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3EY1F1Aa9cur/bkXvLA+X9/6Q6dFZYq9S6xhkmSOckDg==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Guardianes de la Galaxia volumen 3 (2023)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2023/07/6GkKzdNosVAL7UGgwTtCHSxLQ67-200x300.jpg",
+          "uri": "tUqTt1pfJkll9sZ+5u+MJXVOQQ3w93KQ9UWEuC/F7drWJVWK4iNDFxWfyL3912C83+Y/SA+NQcjd90d5jAqqvlRxpSsXc/b3FBPUXRPrhBg=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Black Panther: Wakanda Forever (2022)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2022/11/mYpT2R7639KvKZ668uoQGS2QNFp-200x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2ZlaYAv8M/LNOi3DpFE4mL/xwdTqMz3zq2GUISEYBXD/j6756d8Ft1gZeojJ2BFtfFnSe+LGXdSCqlBbZyUtKa",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Thor: Amor y trueno (2022)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2022/07/kf9Bib75eduxt0QiVJO4pawfd9p-200x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2cPHOQ2OGsQt44VY1JTqpOvB6RVkcD2ZaL5BOI3enUybBFuV7o3bARggZmUuV+Dfo=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Doctor Strange en el Multiverso de la Locura (2022)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2022/06/uOnutpXJdDWyWzUCkApkahPSKuy-200x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0xUSz8PZD5gG7ftkMMai34XI5tM7Njy+W1CA4uzEYLxnU09pAnhBfuGWOChqUvFoK3iRHI+xZIjrx88XcZ0ZlAzmdN25w85MoyjxkdEg2CRA==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Eternals (2021)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2022/01/k21DsNcwVKebrEdpw33GIh2zMnG-200x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2x+MRF/F8vexPPzWfyx9M6qgLcqGADoBNoh+N41L7xmw==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Spider-Man: Sin camino a casa (2021)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2022/03/rkLhaNa37IwzWis8rzWMAYTCdIK-203x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI04loB8HSmkpGrQKCWiz6tGmSMgp9EkhSbwwRCmedPS3UNGs00bupLJXfVwGxW9KVU=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Spider-Man: Lejos de Casa (2019)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2022/02/6BgCad0B5MbtAmJuyXVx8q97zVD-200x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI04loB8HSmkpGrQKCWiz6tGF+KD0prpmcZpLdt5vi3ywp+9+L+QpP88ilqRlbVpOPbxSww02OQr0OXxcAfrt99Y",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Avengers: Infinity War (2018)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2021/10/ksBQ4oHQDdJwND8H90ay8CbMihU-200x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI06VcRAEvoP3chEueXg/NGsslB2Xu3GfDEqMOaK0r0kScYmXVtVISwjJ+Nh8JJwQiI=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Thor: Ragnarok (2017)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2022/09/pGtkLdk4rnF2A3Yz2BHiTgRwMU4-210x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3M5XhL8fV6qcg9rpidSWfVeULF96bysd2HpD6eYQNUTw==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Doctor Strange (2016)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2021/09/sOsvKTJS0XwtfLsNMO3C0CVWJ4u-200x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0xUSz8PZD5gG7ftkMMai34k6Udymc6aw2iFnioAf2B2Q==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Pantera Negra (2018)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2022/09/8TjvIO8ZJPKrMKXEjOVGNSzuO6q-200x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2ZlaYAv8M/LNOi3DpFE4mLo/tLeSuf6E/bG9GpIl+4PQ==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Viuda negra (2021)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2021/09/qjAsDcMlHXxJSfNDQGK9hs13US0-200x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1iZa2l9p3dURaDUMSRmOIE1cCEu9Qo/zL7KuGx9IyDmw==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Capitán América: Civil War (2016)",
+          "ico": "https://hackstore.rs/wp-content/uploads/2022/09/jPPy7tCfglppQo6J9nGwU6UmJ8X-213x300.jpg",
+          "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0+ELjqYAfAevNz66IFWziGpVMBjuvz/wFvuL79jpiyy/MjyXr1ZCQRwIfKZ5tq74Q=",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
           "name": "Avengers: era de Ultrón (2015)",
           "ico": "https://hackstore.rs/wp-content/uploads/2021/10/71wSx6MQm8EbMNDi3vVaD8nD9SL-210x300.jpg",
           "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI06VcRAEvoP3chEueXg/NGstist/nLLxRFgnO5GhBKRArwo9NTOf3+i+bEq6Xc7a7I=",
