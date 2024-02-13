@@ -6109,6 +6109,48 @@
         "mode": false,
         "lista": [
           {
+            "name": "Aquaman y el reino perdido (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/01/d9Hv3b37ZErby79f4iqTZ8doaTp-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0v9Sz6ZSudGjv0NAltkKEqGsDk7KXhKSfsQplW1xAOh8+bPquKGricqHekOpSKFyjacxIxZQClEBzJJmup4LXa",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Blue Beetle (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/09/tf5Mqgoj1fFIeP7Ktfn8KGrYhup-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI28ikSKJCpVnDj3PSx8aUb5rH5+t+cbDCGpZhzWSj6MRw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "The Flash (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/07/x9Qc86JEyYkAKsdzjDpS5kbaAB7-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2y44xn3kXFbHUZ7DZNs6++es8BTEEr49Pv/JsBdXFvgA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "¡Shazam! La furia de los dioses (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2023/04/rdYEj6wJd6lbMiHpIN4rXTYNGn1-210x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0AInxt64QvpjVj286ybtTGwf7XzNcYtgtNjyN+PcYAMyPlBTJv4GsO+3//Nlidvc1mYYAC2bH3A35kSrhZfYV1",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Black Adam (2022)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2022/11/3eQMzMd2qsZkAJbk4wekp3Crg54-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0cruMAdEdqa8MMBl6q7i6KfTrVcADL5iqGCGIsbZeDMQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El Escuadrón Suicida (2021)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2021/10/vby2SqiJwJIrqwj75xvuXtUvQpA-203x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI08Gph+ALinTwJGEZKWAEBtOJ9cFfynKri4Wp183HRAire4+N2MXp371yJPTrrmF0g=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "SHAZAM",
             "ico": "https://panelssh.com.ar/ImgPelis/shazam.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0AInxt64QvpjVj286ybtTGKNm2JpYzW/8Hasiga3aXkQ==",
