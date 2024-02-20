@@ -304,13 +304,6 @@
         "drm_license_url": ""
       },
       {
-        "name": "CANAL 10 RIO NEGRO",
-        "ico": "https://panelssh.com.ar/Img/canal10rionegro.png",
-        "uri": "+kzj0RpiIm3IncMupKgj8TSYUgoIQzApS7oOaX01wt8P/8AlLMWwxrYsIlDUICCAWKUP5hCInW4HTd18inG9aw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
-      },
-      {
         "name": "CANAL 4 JUJUY",
         "ico": "https://panelssh.com.ar/Img/canal4jujuy.png",
         "uri": "qh3csy6adKjWpzqJDdj0cIu/UcWdZtVhq38wItZTt5Q2WjKr2JbrSbTg7qZCBjZtq/rF/AWd2tg5jvnqv0dVS3CiUMERaDY2C7zLtLsZddk=",
@@ -325,9 +318,9 @@
         "drm_license_url": ""
       },
       {
-        "name": "CANAL 13 - SAN LUIS",
-        "ico": "https://secureservercdn.net/45.40.148.234/i5o.948.myftpupload.com/wp-content/uploads/2020/05/LOGO-PARA-FONDO-COLOR.png",
-        "uri": "JRkv0+HJlq+RX/RUZEQdAkICS4XP7y5lAOlpjRXk2OE3vXkrQPdxKpZzRjh1lWdl9Y3w2JzQokaRtfZB6khHg14PnLdknoOUPrCZK/qB8Tk=",
+        "name": "SAN LUIS+",
+        "ico": "https://sanluismas.com/wp-content/uploads/2023/05/Logos_San-Luis.png",
+        "uri": "JRkv0+HJlq+RX/RUZEQdAt5CH1cb5l90zWPV/EhhOR+IVRe2nQovFfeR3XpCoJUkxM3Xk2kuRITCAYDq1iqHWOIHGBMnphiHpQr88Cacrq8=",
         "drm_scheme": "",
         "drm_license_url": ""
       },
