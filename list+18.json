@@ -1448,9 +1448,9 @@
       {
         "name": "TELEMAX",
         "ico": "https://panelssh.com.ar/Img/telemax.png",
-        "uri": "WCT4f+8wl5/htM5gHbbRBMy4eHtJLZgG6Et/aDiIbr69avVPSfYdf6ru8S/WyGectWox694pzMKVXDHEALinMfF441JogB9C6fYRrfphZlA=",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrjNtJ9w+0p77ZXI1IfkWpGAk5F1Lf8kyjDXkTe/8DLi9lOPk4e2ym6rHxkNYsnI0CKISMGBH+AXCCd4sFVWPHk",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNxMmWpCUqaW7aFMJklK41ccuogB3nyWyX/uF/Xmu+3X"
       },
       {
         "name": "WOBI",
