@@ -891,37 +891,37 @@
       {
         "name": "UNIVERSAL CINEMA",
         "ico": "https://panelssh.com.ar/Img/universalcinema.png",
-        "uri": "kJcdqpRKZx5IpLeLVJle7+vScYTQsY3iy/kxmXBPFfUlXuSX2WGeLiueIesUTAkkmTD7r94CNIYG0+x0/5ab/A==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSsULetMFHESSarKqnsLTsxj2ol45XXXDTAUznL5ZxXljtos71W8YSCd8zBt6XokridImgBMdGDEvFQMmVuWuOs+8ZMCCQOSJ47wtxBBrc+A==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDAxZ4AZ+Zlt6ZMqtZhqc/wcijbNrwVJ1JsyFiKTHkwcc"
       },
       {
         "name": "UNIVERSAL COMEDY",
         "ico": "https://panelssh.com.ar/Img/universalcomedy.png",
-        "uri": "kJcdqpRKZx5IpLeLVJle7+vScYTQsY3iy/kxmXBPFfUlXuSX2WGeLiueIesUTAkk1rGApE0+vVWSZpLqCWrugg==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSsULetMFHESSarKqnsLTsXRtSmFObWGlJ3hapAL2ZYXVict2LN7IIUez5VPsobysiCP+an4vOQvGVyz7dGTdKe7Xj8rT07h0PCoXj1Iw0gQ==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDAxZ4AZ+Zlt6ZMqtZhqc/wdZqtRSkjlnlHvJGLAjszxW"
       },
       {
         "name": "UNIVERSAL CRIME",
         "ico": "https://panelssh.com.ar/Img/universalcrime.png",
-        "uri": "kJcdqpRKZx5IpLeLVJle7+vScYTQsY3iy/kxmXBPFfUlXuSX2WGeLiueIesUTAkkIMNjxbnhs5GUe+pHifWaiA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfonpbIb+O4grvRbtAom7GhDnM8ZKSb3UPdyc90t+S7pxI4lLUPSXwYzXK2YLwh0KPd1j1kPcnjwV+4bTb6uWoB57XUrbb38PutGgcaNe1WsXw==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDAxZ4AZ+Zlt6ZMqtZhqc/wdUlzNGzVLhncZi5JdO7fpY"
       },
       {
         "name": "UNIVERSAL PREMIERE",
         "ico": "https://panelssh.com.ar/Img/universalpremiere.png",
-        "uri": "kJcdqpRKZx5IpLeLVJle7+vScYTQsY3iy/kxmXBPFfUlXuSX2WGeLiueIesUTAkkluS5jH2YeFwwSTwGwN/1Zw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSsULetMFHESSarKqnsLTsjhWYAEI+vmvE1sI61ergg4BtOZVgqFj1b/pztgQMemnHXBhaObC5AtRfGZhJHbC3vIN5/W49gWRji8176P+I9w==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDAxZ4AZ+Zlt6ZMqtZhqc/wdbWDrCu19dkDS8xSFv5k/G"
       },
       {
         "name": "UNIVERSAL REALITY",
         "ico": "https://panelssh.com.ar/Img/universalreality.png",
-        "uri": "kJcdqpRKZx5IpLeLVJle7+vScYTQsY3iy/kxmXBPFfUlXuSX2WGeLiueIesUTAkk7kVz6oPbIByDXWHUp3P49w==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfrSsULetMFHESSarKqnsLTsgttHWMCfL7CAaxJxU21+pCQG902DoDcwJMcNM1FpzTzUAUChBG+eiIV6ld/5vrl/ZtwhlRSqtg1uJzB37X2GVg==",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDAxZ4AZ+Zlt6ZMqtZhqc/wfXeoQ5dM30BPURXhbH3ZhF"
       }
     ]
   },
