@@ -750,6 +750,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "PLIM PLIM TV",
+        "ico": "https://panelssh.com.ar/Img/plimplim_tv.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoZN6Kzo14HdOHE/qfu5Cb9+FVtDtTRDJtJq9qZH5fzXLtYN5zbbfBipA2Z6JnVLTMMFYG13nBHj3WVL7IglNBV",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDNKIXo3SVVgLtOtu809G/3Htb18vjI+rG1P2/b9X93La"
+      },
+      {
         "name": "DREAMWORKS",
         "ico": "https://panelssh.com.ar/Img/newdreamworks.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfqSRzHmOXTV1gq06dPlLZLI3w6K637HRHm2V8+Do3myn15upBXh5qZzoLLIovEyEjLXl9pFV0lo3dq+fVIzfP2k",
@@ -1242,6 +1249,13 @@
     "name": "NOVELAS Y VARIEDADES",
     "mode": false,
     "lista": [
+      {
+        "name": "ADULT SWIM",
+        "ico": "https://panelssh.com.ar/Img/adult_swim.png",
+        "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoM2duOQ8HLdx8rSI39pdfJcPfTMHk+qWdDKJxxidASvReLy6zsroIjJXe+3vpMsWNpJZrg25LaQVAwNjAaJUpS",
+        "drm_scheme": "ClearKey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDLYQdOyrGf1cFkSkZrAtc8sRQY/UrBDTPBxq/IP5QExn"
+      },
       {
         "name": "KANAL D DRAMA",
         "ico": "https://panelssh.com.ar/Img/canalddrama.png",
