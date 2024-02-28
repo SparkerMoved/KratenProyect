@@ -937,6 +937,13 @@
     "mode": false,
     "lista": [
       {
+        "name": "GOLDEN",
+        "ico": "https://panelssh.com.ar/Img/golden.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweSALyOGHdpXlSm+pc9WOaJNeDSKM1HJGIlXallICOKD+9nyrFZ5ywgTB+ATDPww/c=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDMMYW4gPVGpj880BBYBm2DYO+g0IRuzp/VX6Ylmqzsgs"
+      },
+      {
         "name": "DHE",
         "ico": "https://panelssh.com.ar/Img/dhe.png",
         "uri": "40OFCocCueSkwPppBm48lx+NEwo521MASEGWgAIHFfoIp3cdEnQ2mddA0z/j0vAl/kxqJQkjv7lhL5o8bGLnRRje/OJgKISnFvrc5R/LvYQ=",
@@ -1327,7 +1334,14 @@
         "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDC99YrN0dm6r6FPnIOSGYUzR20gdny+5NvetIQr9dfl6"
       },
       {
-        "name": "TL NOVELAS",
+        "name": "TLNOVELAS",
+        "ico": "https://panelssh.com.ar/Img/tlnovelas.png",
+        "uri": "aN3Y9GFY3W4GjEyNxo+8vASb0cZxQNxQOB2g2dG/uweJyOi6WUzztihX/mi6DNe/3Myvj/o/r7khHGu5a0HPKqvRxYrCvaXCHp7tnR/2DAo9TaI6ATzw8efCFSUoEHEU",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "VIj4gzKG9p8aJb+cnfUPDMdN6LZzYfGfCDSjF8zM/+GgjhM8HW/VtafK30M9z18d"
+      },
+      {
+        "name": "TLNOVELAS (OPC2)",
         "ico": "https://panelssh.com.ar/Img/tlnovelas.png",
         "uri": "D9bObOKdNpvgw/F4b3dc7AIINPB7UDRz/k5lRX7USvlhzFoRHp5TuMaWrCzFMigKeXjXp22G0tjlGubXKk8imvvU5VHVAjwZN8cn/GKrNOo=",
         "drm_scheme": "",
