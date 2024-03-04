@@ -4,6 +4,83 @@
         "mode": false,
         "lista": [
           {
+            "name": "Los desfiles (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/03/icx1KNeoYbLAQpSeySJgWiHfQaD-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3koJDVtAcp6JJkCTLPkh/FR7epRvG/JAZ1lVd09Ojr5g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Me llamo Loh Ki-wan (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/03/Me-llamo-Loh-Ki-wan-2024-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1rkUmh0qAHsQeuR8El1531YPwirWq9iegyH5WChi9+ctYaXHNNQe3fZYTWOUp/hDw=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El astronauta (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/03/q4G7NXuQ0hDCdO6PUQswyU0VDiF-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI04L/zNHOYYEcKQT93m3Ep09U/03ahdnQVjBV71HfKtpQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Beekeeper: Sentencia de Muerte (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/bHZQYKJV1rV01S3kNZ3hEYz8VNM-209x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3+kMlPoHmd82yNPf1bTafLzUg9NZNSc5VCrp1lAV3dsYTiBwX85KqBb0mIpl1dVis=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Código 8: Renegados (Parte II) (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/vWk177HMwUU1dH8kSbxWqxsIdA6-202x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2Eki1oyuLiqfppw5UuZzSYip9eO/tg1kjjT0KM/GLNs8jsan0z4LM5RA9435ga8zM=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Chicas pesadas (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/Chicas-pesadas-2024-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1gp2WJWSkKrCuywcyezQWdYB2FKH8SEfC+4UtwkRgI6A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "A través de tu mirada (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/oW5QD6b0z21x7ngAi5Fs6T23k0x-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0/cXjsHVSxuKKH1qXbLhCe86J0TxZjQ1sVNqKjNWKTemsZkRM7R0GWHF6bFUUmuRE=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Mea Culpa (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/roxD9VCTTXYfPjVj9HiSC5IMtc7-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3zOmmLMpphr4/2IEZXgGqH0MKjO/cYme2vH6wqoQHdMQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Combate clandestino (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/ajp91apA8TRvGRHFKIDQeix2xKx-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1UDb5yruldO65b+/e4XX5pbC9cgI9GJgKPTeLFTFQ5AA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Snoopy presenta: Bienvenido a casa, Franklin (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/pjIrYzc31kHTySiovHAt0o3qDc2-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1U4IzXufvV4VLNahkglNPANgWHuTflX0Fgq7qe0ZsrEuDVeOJ/YZnOn9Gf5vHaSFRsx+T99x4D0gngCMjtejK+",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Los juegos del amor (2024)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/gdD4rdpjtxtb3WPS7ig6vetphu3-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0cDbyJLP0bpskruSmIgrNPKBx8asKLzYR18I2MCGrKfQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Suncoast (2024)",
             "ico": "https://hackstore.rs/wp-content/uploads/2024/02/nmPLUp5lVMiGomkN3db1WPeNrz3-200x300.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI2Vr49nVOQrRNvmZQndPVY5tVFzPv71LfS6UFvopOxL4Q==",
@@ -121,6 +198,41 @@
         "name": "PELICULAS ESTRENOS 2023",
         "mode": false,
         "lista": [
+          {
+            "name": "Simón (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/03/8bY3ojxD1C9VaOVLNh9cATtRIJm-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0bAMgwDbTY9z0YX3vYP7gHruBQ9m88Z9cpdRsVaajObg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Pobres criaturas (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/xbfzQ7Q7qmDUf50eZH8C57Ygx6n-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0IQA9zXLf8acFcrfmq8TUGOrY3LnUC8dlS/m+IcsATXQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Good Burger 2 (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/pcwOHNTIy6pVOLj6Tjp8tSL9bwF-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI32PEPFq1hm+SyytpRN/mURs4suHJcyVBavWiD6wkB3U9VHE7T6bR++NVNoe+WDvIc=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Trafficking (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/9Dz3H25Th3DrhsQFpXkaupm94qK-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1oefuSd55EgRoM84sHyoEi4VEb6DJhEjk1H3vJlWz+fg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Ritos Ocultos (2023)",
+            "ico": "https://hackstore.rs/wp-content/uploads/2024/02/5amTfg7rN7dhMxPhaC8y6AsMxle-200x300.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI11+nGwF44NUSJVoz+f/j++RrLP/jbUQIJ6Snxa51JNEbpv38Sw/g5af7/POszkYoU=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
           {
             "name": "American Fiction (2023)",
             "ico": "https://hackstore.rs/wp-content/uploads/2024/02/American-Fiction-200x300.jpg",
