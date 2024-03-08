@@ -1,8 +1,42 @@
 [
   {
-    "name": "SERIES ESTRENOS",
+    "name": "SERIES",
     "mode": true,
     "lista": [
+      {
+        "name": "ESCOBAR: EL PATRON DEL MAL",
+        "ico": "https://panelssh.com.ar/ImgPelis/escobar.jpg",
+        "temporada": [
+          {
+            "name": "Episodio 1",
+            "ico": "https://panelssh.com.ar/ImgPelis/escobar.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGXeRjOvgWUHlx2HUUgIUNITglWsqwiJlHdDYUS2x1qjZ",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 2",
+            "ico": "https://panelssh.com.ar/ImgPelis/escobar.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGXeRjOvgWUHlx2HUUgIUNIT+tVuzldO9T6ZkzUfv5dTd",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 3",
+            "ico": "https://panelssh.com.ar/ImgPelis/escobar.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGXeRjOvgWUHlx2HUUgIUNIT2dyKU/T+QiBfLOAxc7fxu",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 4",
+            "ico": "https://panelssh.com.ar/ImgPelis/escobar.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGXeRjOvgWUHlx2HUUgIUNIS9P5Zut3Lv7INXaC+BTpnx",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
       {
         "name": "SECUESTRO AÉREO (2023)",
         "ico": "https://www.themoviedb.org/t/p/w300_and_h450_bestv2/vAo3QL02oOI9Xz90FILQN5vxMsQ.jpg",
