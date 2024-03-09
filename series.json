@@ -685,6 +685,159 @@
     "mode": true,
     "lista": [
       {
+        "name": "LOS SIMPSON: TEMPORADA 29",
+        "ico": "https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-29-de-los-simpson.jpg",
+        "temporada": [
+          {
+            "name": "01: Los Siervson",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2016/09/wabf17_promo_1-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NE5fOvI/UL8klVt/v2haGkA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "02: Esplendor De Springfield",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2016/09/wabf22_promo_1-400x225.png",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0Nv1y0fv698zIqAoPjAn4vrA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "03: El padre de la Silbadora",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2016/09/simpsons_WABF16_promo_3-e1507652555730-400x225.png",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NcZrJyuRlM1FFkqBvIhNXow==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "04: La Casita Del Terror XXVIII",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2016/10/wabf18_promo_3-400x225.png",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NfLuSTxshxgzyCA/vPgM9pQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "05: Abuelo, ¿Puedes oirme?",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2016/11/simpsons_wabf19_promo_1-e1509284543295-400x225.png",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NPC1lg31w0iiFC9NQA/Wz1w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "06: La vieja alcaldesa azul no es lo que era antes",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2016/11/simpsons_WABF20_promo_1-e1509284965620-400x225.png",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NtQNzamZXURXHmRBAQqvWkQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "07: Cantando en la bolera",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2016/11/simpsons_wabf21_promo_1-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NV+vIBuPxKDJ8ge49COqzDw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "08: La historia de lisa",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/03/simpsons-XABF01-promo4-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NAivsuGyBEvDIrg7vtZeeWw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "09: El niño perdido",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/03/simpsons-XABF02-promo_2-400x225.png",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0Nif1YVu3Keos+bF3Ne88xdg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "10: Haw Haw Land",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/04/simpsons_xabf03_promo_5-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0Na4Yhyol8nu4GPNkoYFjEwA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "11: La prueba de frink",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/04/xabf04_promo_1-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NgNkanIGvCnqhucJTJ7oiKw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "12: El hogar es donde no esta el arte",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/04/xabf05_promo_4-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0Na1TsNHlhlA40anrccoy1Rg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "13: Tres escenas y el final de un matrimonio",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/05/simpsons_xabf06_promo_1-400x218.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NwTJ2g+vffABY+1A4pmZ82A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "14: Temores de un payaso",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/06/simpsons_xabf08_promo_1-400x225.png",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0ND6IICGPRXAsOS/VqzkBiTg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "15: Ninguna buena lectura queda impune",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/05/simpsons_xabf07_promo_2-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NQro5u6j4t3P87b8iDhpb+Q==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "16: El rey del colchon",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/06/xabf10_promo_4-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NNGCNB1ibHxC/KpX+WIhLcA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "17: Lisa entiende el blues",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/06/simpsons_xabf11_promo_1-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NpHNYI2seZL1lMtYXY+1KQw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "18: Perdona y lamenta",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/06/simpsons_xabf09_promo_6-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NsKjmGgrjPN9jPRWGxiRVxA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "19: Rezagado",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/08/simpsons_xabf12_promo_1-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NmXgwiPbW830UgC2BoT2cHA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "20: El abuelo en dinamarca",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/08/simpsons_xabf13_promo_5-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NfxLAwz6DI6pGWNwWjm5ynA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "21: La escalera de Flanders",
+            "ico": "https://thesimpsonsrp.com/wp-content/uploads/2017/08/simpsons_xabf14_promo_4-400x225.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGUqLUo7Y6QUTD6H7rCN8dWSPAbiZod4049wohmLEFc0NI9mGHOc4zaAckqzEqRWsqQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "EL ENCARGADO",
         "ico": "https://www.themoviedb.org/t/p/w600_and_h900_bestv2/uupbGouVR9UPvUJVee3OuzLB426.jpg",
         "temporada": [
