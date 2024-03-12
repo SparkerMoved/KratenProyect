@@ -4,6 +4,68 @@
     "mode": true,
     "lista": [
       {
+        "name": "AGENTE CARTER (2015)",
+        "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fe79VYyLp5ZBstpJ4oukpuUT3B.jpg",
+        "temporada": [
+          {
+            "name": "01: No es el final",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vElAbFDFXDG9ehuFyAeE6bnAd4U.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGQG5OadxtAPGH+yAV5MQNHo5QaYq53GqrxqaVfmoLPIRPDQWZe0te4U+WWYyPK1XAA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "02: Puente y tunel",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/e84YFCOmu5mtJNV5z7prEl8VmRE.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGQG5OadxtAPGH+yAV5MQNHo5QaYq53GqrxqaVfmoLPIR+3qPVoH6oOaYryN0/a/2iQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "03: Tiempo y marea",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jgTaiM4pn0oENdZUvL8DLZGqjtf.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGQG5OadxtAPGH+yAV5MQNHo5QaYq53GqrxqaVfmoLPIRO1+Xc3LUaGhtUDegDKwUDQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "04: Ataque relámpago",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/7B8N00E8GtO9ETOkNfztYMqkDIS.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGQG5OadxtAPGH+yAV5MQNHo5QaYq53GqrxqaVfmoLPIRjO7C8JVzqcBzipLgJamRaA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "05: El techo de hierro",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/bq5WiUnGLMCB6FNeLvRRaWUw4GS.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGQG5OadxtAPGH+yAV5MQNHo5QaYq53GqrxqaVfmoLPIRhAnLyORkLpZg931rr6cn2g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "06: Pecado y error",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8ZdobzrZhqPzVTVL8n5tw1zLuqw.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGQG5OadxtAPGH+yAV5MQNHo5QaYq53GqrxqaVfmoLPIR4r6fckSJrppC4a7NqJVG8w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "07: Todo mal",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dlbnJOIRxmIf2KZ81ZyPy2ocU37.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGQG5OadxtAPGH+yAV5MQNHo5QaYq53GqrxqaVfmoLPIR+kTmHYM2vKZku8LryyNdSQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "08: Palabras de despedida",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/2H8M4L0ach8fF6oX9LhJ0fWP9Mo.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGQG5OadxtAPGH+yAV5MQNHo5QaYq53GqrxqaVfmoLPIR9PwJGmeOpWnv94ieX+CSGw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "ESCOBAR: EL PATRON DEL MAL",
         "ico": "https://panelssh.com.ar/ImgPelis/escobar.jpg",
         "temporada": [
