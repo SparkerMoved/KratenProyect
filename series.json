@@ -747,6 +747,89 @@
     "mode": true,
     "lista": [
       {
+        "name": "RICK AND MORTY",
+        "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/gdIrmf2DdY5mgN6ycVP0XlzKzbE.jpg",
+        "temporada": [
+          {
+            "name": "01: Piloto",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/oWaKdUeMOlVZem3v9DWsdDGlTuY.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGWvrJYLJKrkYhWHo1znb2ynlUFJEt0MuL9TXMfeB0Oy54TnzjgIxSjEmA0D9vxhLTw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "02: Perro cortacesped",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/r3CzGadu9EEunFtuTqmXxMRkX5V.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGWvrJYLJKrkYhWHo1znb2ynlUFJEt0MuL9TXMfeB0Oy5xcA1k7nP0mqUHkXqbSUCRA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "03: Parque de la anotomia",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3cp6QrExDBQUFGcOu43NBtaugNY.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGWvrJYLJKrkYhWHo1znb2ynlUFJEt0MuL9TXMfeB0Oy5XyooyXwErzmcQw+66ixoGA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "04: M.Night Shaym - Extraterrestres",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9hbDdbHeHIuquiwQ5zdux57nYTk.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGWvrJYLJKrkYhWHo1znb2ynlUFJEt0MuL9TXMfeB0Oy50A6q0YbsR1TDMRYY3Y3KeQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "05: Meeseeks y destruye",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/9nh9ZpxOyCJMD73biS2h3CvHfm2.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGWvrJYLJKrkYhWHo1znb2ynlUFJEt0MuL9TXMfeB0Oy5iWEHE4Xr7ZX4sDB1Z18CRA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "06: Pocion rick #9",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/hY750JVvL7K9KQN9lcqPTqcUEkN.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGWvrJYLJKrkYhWHo1znb2ynlUFJEt0MuL9TXMfeB0Oy510Jg6WjKfYBgvFzX19JhLA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "07: Levantando Gazorpazorp",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/j7qn7TIOSQOHZBgVi4NKnTpIcgM.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGWvrJYLJKrkYhWHo1znb2ynlUFJEt0MuL9TXMfeB0Oy5xSVMa/ebeiFObCrezSeSrA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "08: Rixta Minutos",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/HaTpHoQw2DWFAtHgGKn4gLOEaX.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGWvrJYLJKrkYhWHo1znb2ynlUFJEt0MuL9TXMfeB0Oy5ZvrJotuk52ath0Rk+dmINA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "09: Algo arruinado de esta manera viene",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/daA9q3U3ibIcm5OGuklySeIsQWV.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGWvrJYLJKrkYhWHo1znb2ynlUFJEt0MuL9TXMfeB0Oy5j+GyNfjzqUQ1Q5VjCHJ4oQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "10: Contra ataques cercanos de rick del tipo rick",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8gOouaPQhfB8cC01sYyFLYgTcRq.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGWvrJYLJKrkYhWHo1znb2ynlUFJEt0MuL9TXMfeB0Oy56Lf9JC3cShKOKodg9hqeSA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "11: Negocio Ricksy",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/i2SAtmUW6tm8q3oYikgwImZte9Q.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGWvrJYLJKrkYhWHo1znb2ynlUFJEt0MuL9TXMfeB0Oy5rsTC8KWrv2Yjrbr1x59nbA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "LOS SIMPSON: TEMPORADA 29",
         "ico": "https://thesimpsonsrp.com/wp-content/uploads/2020/09/temporada-29-de-los-simpson.jpg",
         "temporada": [
