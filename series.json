@@ -989,56 +989,56 @@
           {
             "name": "01: LOS MIERCOLES SON TRISTES",
             "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/vaoNDFmj7DQH7PpAy9YWgLVylPP.jpg",
-            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk2SSQrkmKALBgsdVRLzHoZ+",
+            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk0FS3Tup4UR6UMJk+fBaxrh",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "02: LA TRISTEZA ES SOLITARIA",
             "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/i9MLXA6C5VSpRSHzXEd2uHlj4pA.jpg",
-            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk2XtIClVHRY5lZz2T8WdrVy",
+            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk24qqa7j2hk4mX7p2W+phj/",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "03: TRISTEMENTE AMIGA O ENEMIGA",
             "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/yikI4l7vKK4LkfFEIa5dXaqO97s.jpg",
-            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk3OwbefBetTBd8rKhU7ayN0",
+            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk2UzN1evRryruaDGDRv8+1o",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "04: QUE NOCHE LA DE ESE DIA",
             "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/wV2de1W3td4zxaW97HATfktHjfd.jpg",
-            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk3F/EJ1vAl7S8rF06kvyYbr",
+            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk27O6m4UpuLr2FcGXuknMBZ",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "05: QUIEN SIEMBRA VIENTOS RECOGE TRISTEZA",
             "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/j3Tx4CXDhzOV103TuTwz461EdjF.jpg",
-            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk04S2BbbHD0r/WVWN8S06aZ",
+            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk3CXQw0snrS1h7w842Bu07z",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "06: HOY POR MI, MAÑANA POR MI",
             "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/cPHlYQ00832jS7IDqfHS7RWTz2k.jpg",
-            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk2QTiplA7Oz/XOThx8166Pd",
+            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk1HgU6oqGGolmHkIQrCCoWX",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "07: QUE TRISTE QUE TODAVIA NO ME CONOZCAS",
             "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/aEmccS7KyFPQMAnuQ2C5sbyn5fc.jpg",
-            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk1kY9JT+DEQgW5DLXe7h2Pt",
+            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk0N6cel65WAbwhkMVrSr6/b",
             "drm_scheme": "",
             "drm_license_url": ""
           },
           {
             "name": "08: UNA BANDADA DE TRISTEZA",
             "ico": "https://www.themoviedb.org/t/p/w227_and_h127_bestv2/3b42P1FuxWC9JXVIfnKAUUuq0zP.jpg",
-            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk1ixDQFS2vbmF+5HT63b3kq",
+            "uri": "YRCLBTpit6oQUjSLDmjwGU0YLOti8Eiyl2vHv8mvSk1P1V1awpjbO+OaFW7dzHva",
             "drm_scheme": "",
             "drm_license_url": ""
           }
@@ -1182,6 +1182,68 @@
     "name": "SERIES ARGENTINAS",
     "mode": true,
     "lista": [
+      {
+        "name": "APACHE: LA VIDA DE CARLOS TEVEZ (2019)",
+        "ico": "https://panelssh.com.ar/ImgPelis/apache.jpg",
+        "temporada": [
+          {
+            "name": "01: 1984",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aivQ6JW3eV3gfsqqvoL5Tt72ZPI.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGb20rVscD2Wd5wmSgSZSkKbC89DELGnRRB2p/m8yiWnD",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "02: Entre el plomo y la desilusion",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/a2Vumf5ag8UhgTk4hKF8Ie3fUBE.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGb20rVscD2Wd5wmSgSZSkKYir5dmDOuCBJMPKokjte//",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "03: El legado",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/dssGn59DFHkxHUkFhUFPmiu6gsq.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGb20rVscD2Wd5wmSgSZSkKZe9w6wfbMdfRtG7MoiQxoJ",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "04: Un mundo nuevo, el origen",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/h1De4OYKhj66eXfBphb4TA9Y1Tg.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGb20rVscD2Wd5wmSgSZSkKazuCh0/eU0NMXQ4csjnGSn",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "05: El valor de la identidad",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/8EjAuVGzmwYiMM2h9i6GiDKVZG2.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGb20rVscD2Wd5wmSgSZSkKbsGpMEjNv3j6/KsJy91aHI",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "06: Dos madres, un acto de amor",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/6Ga3aAMecStzSH4gLsGKuiIx24e.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGb20rVscD2Wd5wmSgSZSkKbuW2t4S7tu1XkgBbmUbOhM",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "07: Las dos caras de una moneda",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/AaBAdSRMtVB3f4S99D8rtOhiI3o.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGb20rVscD2Wd5wmSgSZSkKarpFCbvZLAcNRwQWVfMMor",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "08: El gran dia",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/wUB5UzQwFasPyu8zWvKrmHNEPRf.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGb20rVscD2Wd5wmSgSZSkKaKkhrCA+cqNH2MOppyT7jc",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
       {
         "name": "EL MARGINAL TEMP 1",
         "ico": "https://panelssh.com.ar/ImgPelis/elmarginaltemp1.jpg",
