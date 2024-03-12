@@ -4,6 +4,103 @@
     "mode": true,
     "lista": [
       {
+        "name": "LUCIFER",
+        "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+        "temporada": [
+          {
+            "name": "01: Piloto",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/uYSkeGzyZMWl7jSFiWuPhN54edb.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmz6C0buSLO3W5oE7i2maOaZRlCtLSSiQpG5zuF/XkOcmw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "02: Quieto, lucifer. Buen diablo.",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/vD4kugm8aVaxHQojb6afhQpB0w0.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmzknDKjWjOLCGmnQlPVQKx4huX6p38Waxw7+zE+E95qfg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "03: El presunto principe de las tinieblas",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/eTRQGrNXhg3t1Z3dhNLOsGxomxm.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmxA5N9PMLHekn99ReX7DdB0uot5wHH6MdTcOTJc/IqwbA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "04: Cosas de hombres",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jT6UcjnRP1MH8zUf0zL7NFGqhNQ.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmw5/2CEhQ/RSIH6mUEjcp4hsk3xlehXpl8oR6xu1SG6QQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "05: Lindos Zapatos",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/nrRGeYit3Tvr2NocDmKEA5bH9sz.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmxeLGmbBnH8CpT7yzoIBsc3J2Xi7Tqika+3NBnMYhSnHg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "06: Hijo favorito",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/iCPIYG06s4rEUAffTI7D1xuVPvy.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmxcSd7vAOkB28vIKNzWlEvqdvD6GBZJ1rQRCHP7ZQOetA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "07: Compañero alado",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/3QkYv78ZlxYf54sLO71xYnoqzMr.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmzH3JZbXZ0fLpk1dNT6NtPXPxvvCxTkUE5WAFf1MpnTiQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "08: Et tu, Doctor?",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/kCvPxVQ0OLyQG7VwPOzHTHGsbKV.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmzXHd2B4ghq+FoEvitb6cOoGzQOb/3VE2lODaZ/gpvzzw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "09: Un padre entra a un bar",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/guWoA5SLNMVMo6J3vaZSMIEGyXh.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmzWjvrpZtvi8+laSUYVxEi5xtcJvtH59UHln2RX9m1vLw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "10: Papi",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/aqCLf3sbEvGQfLlKg1cYccu1hYK.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmz7vlSk/uKaN3XVVMIQ3mUh0CeyeDQv397EL0xQU8Ch3g==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "11: San lucifer",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/m0EeNM6XyMb2gMKF1b6vyFoaTND.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmwJYdRKVr5fO7xEVkgnNjQtZfFJog4iaeA8KUpqiEcIkQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "12: #EquipoLucifer",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/jycEjP6R7cd23FasOdNp61d8Xk1.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmww26O+S7SoTCHqxtfwlOjE7eh+a0ToT/qkvLLKlyWJ6Q==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "13: Regresame al infierno",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/fUOlgpJgR9GBHBvLqad0zZUk0aO.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGds1RFtIva7xA1LltSPOXmzBwjdmTnhh6NZPUwzeSAN6sht/9Vd9UsKkEGX9V7YmGQ==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "AGENTE CARTER (2015)",
         "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/fe79VYyLp5ZBstpJ4oukpuUT3B.jpg",
         "temporada": [
