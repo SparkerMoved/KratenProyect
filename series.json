@@ -4,6 +4,96 @@
     "mode": true,
     "lista": [
       {
+        "name": "PEAKY BLINDERS",
+        "ico": "https://image.tmdb.org/t/p/original/wMUNrwZmGKgFrclABHrRZD1jF49.jpg",
+        "temporada": [
+          {
+            "name": "Episodio 1",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/tplu6cXP312IN5rrT5K81zFZpMd.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGafTL5cRwIHsE9N02uxgyCl169QDB+D7RiWd6lMFcCRkTdOYPa4CQexFKNrAx8TxZA==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 2",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/n3vGYt82f6YqD1eAHVuAhkQQBAJ.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGafTL5cRwIHsE9N02uxgyCl169QDB+D7RiWd6lMFcCRkqda+cqzAoCZsgiepgIIYQg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 3",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/pQluUwtpgk7KJsTfS2CdoJBKcyb.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGafTL5cRwIHsE9N02uxgyCl169QDB+D7RiWd6lMFcCRkTVSSfFIXQVolMx25rAR7yg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 4",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/ktATJ6sEfEqu6HfGpE9FD7WIjvq.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGafTL5cRwIHsE9N02uxgyCl169QDB+D7RiWd6lMFcCRksrxEn84oevELCa+koh0bkg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 5",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/11HGUikej3bARNmp44vEnkBel5K.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGafTL5cRwIHsE9N02uxgyCl169QDB+D7RiWd6lMFcCRkTJZKwUSTQRkvBBruxg6LOg==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 6",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/4p4MIZG60gGHChGtTDQMO8Afb9R.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGafTL5cRwIHsE9N02uxgyCl169QDB+D7RiWd6lMFcCRk0pkn91qtSpyM7x/j1hTJUw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 7",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/i03Gc5a3kT2W6XlE836vHBxzjMv.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGafTL5cRwIHsE9N02uxgyCl3vweqQOoSWNwfxGmqcPLnhQzqTjnmUIhJ7+X2ENHmZw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 8",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/yQUuWCeTkuhZrXEKcEtMWisoCwO.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGafTL5cRwIHsE9N02uxgyCl3vweqQOoSWNwfxGmqcPLn8KK36dPyxUchxVqyDluk4w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 9",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/lGR1zCMvbBKb8A8LMnqQCeaXTUw.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGafTL5cRwIHsE9N02uxgyCl3vweqQOoSWNwfxGmqcPLnSDGaXtdB34mMKH4SQ1wPJw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 10",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/koaGMtpxFhBt2SdSzZlgT9kDAu4.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGafTL5cRwIHsE9N02uxgyCl3vweqQOoSWNwfxGmqcPLnucTkqF+6vs3WPt4mDyaXbw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 11",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/trUVc4nroLCWayW1Bl61uieY1ET.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGafTL5cRwIHsE9N02uxgyCl3vweqQOoSWNwfxGmqcPLnURStPmxsxnzDq4Rr0++h1A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Episodio 12",
+            "ico": "https://media.themoviedb.org/t/p/w227_and_h127_bestv2/rxEHqVvWCXLbNDfO1Z6S4r9pxHY.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGafTL5cRwIHsE9N02uxgyCl3vweqQOoSWNwfxGmqcPLnHZht7rYWBDRfg/cMI2hxgw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          }
+        ]
+      },
+      {
         "name": "LUCIFER",
         "ico": "https://media.themoviedb.org/t/p/w300_and_h450_bestv2/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
         "temporada": [
