@@ -4,6 +4,55 @@
         "mode": false,
         "lista": [
           {
+            "name": "Kunfu Panda 4 (2024)",
+            "ico": "https://www.bizcochito.es/Films/Poster/tt21692408.webp",
+            "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzenLTvDfKEQmDuNSFI1WOXgMwIj8jDz1lvvUYlfdSo3I1A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Madame Web (2024)",
+            "ico": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/rULWuutDcN5NvtiZi4FRPzRYWSh.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1LpWchmVewQ1O19sXhMYaBfNIYuBk4TA2wPYNyk5Ar1A==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Dos chicas a la fuga (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/xdfjyWWdc6Ubq4LP5HBSAsdl8ZQ.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0mjvNtOXG3DWrV3hYAuT73DzmPe45Q9I82VOItI+nOSxC2UaL/RVdZx+7rr/0REPw=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Damsel (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/AgHbB9DCE9aE57zkHjSmseszh6e.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzenTd2YRv2frdq5uP3buL6mc",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "El retorno de Los Thundermans (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3Pz6bnvdEJSDJEpHmzNT7rd0YH0rz3rP39C//5JleB40ZxUXO9ddVUm51frGhjY5Q=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Ricky Stanicky: El impostor (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/eMJPQmvTC39ctlnWlFLJbXqrbSP.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3PUqtSiwzOzH1JQxFSC6WP1l6KyXTDQNSWN+H3mM1KeP+IXy8oEkrIg0OP7HkvdzY=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Argylle: Agente secreto (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/tshllXJDIctUlD1kMPQdIh37L2V.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0lKpT8hR9503t2qAcXgkhLV2Tcjte/a5XQ2zEaB9QICw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Los desfiles (2024)",
             "ico": "https://hackstore.rs/wp-content/uploads/2024/03/icx1KNeoYbLAQpSeySJgWiHfQaD-200x300.jpg",
             "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI3koJDVtAcp6JJkCTLPkh/FR7epRvG/JAZ1lVd09Ojr5g==",
@@ -198,6 +247,20 @@
         "name": "PELICULAS ESTRENOS 2023",
         "mode": false,
         "lista": [
+          {
+            "name": "La biblia de clarence (2023)",
+            "ico": "https://image.tmdb.org/t/p/original/rwWtGSS0Bx0oIpfJxQjJOuaHMkj.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI348XHVKJQvfPPwkGCAHMYVYprRiW+5OsNlykNHHInIfQ2/JPhh4wyJQgEILl1iZK0=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Sobrevivientes después del terremoto (2023)",
+            "ico": "https://image.tmdb.org/t/p/original/rmx6bCD4w8Fanqat2kdv7zaHJad.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI11Vqton0mbfDEMF1GEDCb03lneeKlDh6D2+v1ycIkoIwIMWx0XlDCQadZIOeZnF3c=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
           {
             "name": "Simón (2023)",
             "ico": "https://hackstore.rs/wp-content/uploads/2024/03/8bY3ojxD1C9VaOVLNh9cATtRIJm-200x300.jpg",
