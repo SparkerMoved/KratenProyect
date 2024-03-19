@@ -244,7 +244,7 @@
         ]
     },
     {
-        "name": "PELICULAS ESTRENOS 2023",
+        "name": "PELICULAS AÑO 2023",
         "mode": false,
         "lista": [
           {
@@ -3735,6 +3735,13 @@
         "name": "PELICULAS ACCION",
         "mode": false,
         "lista": [
+          {
+            "name": "Tirador (2007)",
+            "ico": "https://image.tmdb.org/t/p/original/rc786mz9sxtExXsSFTGOgyqHRWW.jpg",
+            "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzekl+yJc5JFAYBNVLCuwyoJcUvCJIldv4joNyMwmNjw95w==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
           {
             "name": "BUSQUEDA IMPLACABLE (2008)",
             "ico": "https://www.lavanguardia.com/peliculas-series/images/movie/poster/2008/2/w1280/dTshd9hjQMWyRijWucqszKPrp5z.jpg",
