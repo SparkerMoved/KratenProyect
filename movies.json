@@ -4,7 +4,7 @@
         "mode": false,
         "lista": [
           {
-            "name": "Kunfu Panda 4 (2024)",
+            "name": "Kung fu Panda 4 (2024)",
             "ico": "https://www.bizcochito.es/Films/Poster/tt21692408.webp",
             "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzenLTvDfKEQmDuNSFI1WOXgMwIj8jDz1lvvUYlfdSo3I1A==",
             "drm_scheme": "",
@@ -6565,6 +6565,13 @@
           "name": "Doctor Strange en el Multiverso de la Locura (2022)",
           "ico": "https://hackstore.rs/wp-content/uploads/2022/06/uOnutpXJdDWyWzUCkApkahPSKuy-200x300.jpg",
           "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0xUSz8PZD5gG7ftkMMai34XI5tM7Njy+W1CA4uzEYLxnU09pAnhBfuGWOChqUvFoK3iRHI+xZIjrx88XcZ0ZlAzmdN25w85MoyjxkdEg2CRA==",
+          "drm_scheme": "",
+          "drm_license_url": ""
+        },
+        {
+          "name": "Shang-Chi y la leyenda de los Diez Anillos (2021)",
+          "ico": "https://image.tmdb.org/t/p/original/baOzlpQllZbjyNBcTdeXESh9Y0M.jpg",
+          "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzemcDct9yRHqOWQ4FyGA897bTL0db8RhstUiYheSl3lJ3g==",
           "drm_scheme": "",
           "drm_license_url": ""
         },
