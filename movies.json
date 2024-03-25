@@ -4,6 +4,20 @@
         "mode": false,
         "lista": [
           {
+            "name": "El duro (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/lXJK3E3EPcT2i7mev2ilHlTIvTR.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI0Vw1Sj/xKAEVwnTmZkRWcEBuYlN7t47hh9z7EebWRwSw==",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
+            "name": "Bob marley la leyenda (2024)",
+            "ico": "https://image.tmdb.org/t/p/original/ayaApnFGwc6hHJHry59GjfWuTSK.jpg",
+            "uri": "AjJ7rsJtLHfJXQvRl5kzZilp2+iG1gPk2aVcJe1SvI1AUyCOQTRnIjY38625p2DhWrlSYvs4boIOkSq2c3vUcTjkhSVeQuOicGrv0Dt/HUA=",
+            "drm_scheme": "",
+            "drm_license_url": ""
+          },
+          {
             "name": "Kung fu Panda 4 (2024)",
             "ico": "https://www.bizcochito.es/Films/Poster/tt21692408.webp",
             "uri": "YRCLBTpit6oQUjSLDmjwGcoDJy6W1nQpYm+Yij0gzenLTvDfKEQmDuNSFI1WOXgMwIj8jDz1lvvUYlfdSo3I1A==",
